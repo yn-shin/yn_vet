@@ -10,4 +10,4 @@ virion_size: 27-40nm
 site: 세포질
 구분: 기말27
 ---
--> [[./content/vet/1. Lecture/07-3. 전염병학2/27. Caliciviridae|27. Caliciviridae]]
+-> [27. Caliciviridae](./content/vet/1.%20Lecture/07-3.%20%EC%A0%84%EC%97%BC%EB%B3%91%ED%95%992/27.%20Caliciviridae.md)
