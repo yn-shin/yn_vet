@@ -9,6 +9,7 @@ host: "**M**, R, **H**, GP"
 증상: 
 순서: 3
 share: "true"
+Zoonoses: Zoonoses
 ---
 
 >[!tldr]- 관련 문서
