@@ -5,12 +5,12 @@ Class: Virus
 family: Bunyaviridae
 genome: RNA
 host: M, R
-특징: 한국의 등줄쥐에서 분리된 바이러스
-증상: 임상증상 X
+특징: 한/일/중에서 HFRS, 미국/캐나다에서 HPS
+증상: 설치류에서 임상증상 X
 순서: 1
 share: "true"
+Zoonoses: Zoonoses
 ---
-
 >[!tldr]- 관련 문서
 >#공중보건학
 >[[../../../../05. Bunyaviridae|05. Bunyaviridae]]
@@ -23,16 +23,25 @@ share: "true"
 
 - ssRNA, enveloped, spherical~oval, 직경 120-160nm.
 ### Strains
-- **Hantaan virus** : 한국의 등줄쥐(*Apodemus agrarius*)에서 분리. 한국, 일본, 중국에서 **HRFS**(hemorrhagic fever with renal syndrome)의 severe form의 원인체
-- Dobrava-Belgrade virus
-- Seoul virus : Norway rat(Rattus norvegicus)가 보균자. 한국, 일본, 중국에서 HFRS mild form의 원인체. 
-- Puumala virus : 유럽에서 HFRS의 mild form
-- Sin Nombre virus : 미국과 캐나다에서 고병원성 HPS(Hantavirus pulmonary syndrome) 유발. 
-- Black Creek Canal virus : 미국에서 고병원성으로 HPS 유발
+
+|         strain          |   나라    |               증상                |                       비고                       |
+| :---------------------: | :-----: | :-----------------------------: | :--------------------------------------------: |
+|    **Hantaan virus**    |  한/일/중  | **HFRS** severe form<br>(고열+신장) |       한국의 등줄쥐(*Apodemus agrarius*)에서 분리        |
+| Dobrava-Belgrade virus  |   유럽    |        HFRS severe form         |                                                |
+|       Seoul virus       |  한/일/중  |    HFRS mild form<br>(감기 유사)    |      Norway rat(*Rattus norvegicus*)가 보균자      |
+|      Puumala virus      |   유럽    |         HFRS mild form          | 스칸디나비아의 대륙밭쥐에서 분리<br>nephropathia epidemica 유발 |
+|    Sin Nombre virus     | 미국, 캐나다 |         고병원성 HPS<br>(폐)         |              미국의 deer mouse에서 분리               |
+| Black Creek Canal virus |   미국    |            고병원성 HPS             |                  미국의 목화쥐에서 분리                  |
+\* **HFRS** : Hemorrhagic **Fever** with **Renal** Syndrome
+\* **HPS** : Hantavirus **Pulmonary** Syndrome
 
 ### Clinical signs
-- 설사류는 임상증상 X
+- 설치류는 임상증상 X
 - 병원성을 나타내지 않으면서 계속 바이러스를 배출
-
 ### Epizootiology
 - 설치류 → 사람, 직접 접촉, 분비물 접촉
+- 불현성 감염 → morbidity, mortality = 0
+
+### Prevention
+- 감염된 모체 : 즉시 격리 후 안락사
+- 실험 중인 동물 : 즉시 격리 후 안락사
