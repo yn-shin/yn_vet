@@ -32,8 +32,9 @@ Zoonoses: Zoonoses
 |      Puumala virus      |   유럽    |         HFRS mild form          | 스칸디나비아의 대륙밭쥐에서 분리<br>nephropathia epidemica 유발 |
 |    Sin Nombre virus     | 미국, 캐나다 |         고병원성 HPS<br>(폐)         |              미국의 deer mouse에서 분리               |
 | Black Creek Canal virus |   미국    |            고병원성 HPS             |                  미국의 목화쥐에서 분리                  |
-\* **HFRS** : Hemorrhagic **Fever** with **Renal** Syndrome
-\* **HPS** : Hantavirus **Pulmonary** Syndrome
+
+ \* **HFRS** : Hemorrhagic **Fever** with **Renal** Syndrome
+ \* **HPS** : Hantavirus **Pulmonary** Syndrome
 
 ### Clinical signs
 - 설치류는 임상증상 X
