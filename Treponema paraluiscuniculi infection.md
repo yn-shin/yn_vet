@@ -4,7 +4,7 @@
 Class: Bacteria
 원인균: "*Treponema paraluiscuniculi*"
 Gram: (-)
-host: Rb
+host: rb
 특징: 
 증상: 
 순서: 18
