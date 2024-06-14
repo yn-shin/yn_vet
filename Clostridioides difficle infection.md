@@ -4,7 +4,7 @@
 Class: Bacteria
 원인균: "*Clostridioides difficile*"
 Gram: (+)
-host: H, GP, Rb
+host: H, GP, rb
 특징: 
 증상: 
 순서: 16
