@@ -8,4 +8,5 @@ host: M, R, H, GP, Rb
 특징: 
 증상: 
 순서: 3
+Zoonoses: Zoonoses
 ---

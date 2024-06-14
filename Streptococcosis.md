@@ -2,7 +2,7 @@
 과목:
   - 실험동물의학2
 Class: Bacteria
-원인균: "*Streptococcus pneumoniae*"
+원인균: "*Streptococcus pneumoniae*, *β-hemolytic Streptococci*"
 Gram: (+)
 host: M, R, GP
 특징: 
