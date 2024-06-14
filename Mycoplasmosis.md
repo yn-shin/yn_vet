@@ -4,7 +4,7 @@
 Class: Bacteria
 원인균: "*Mycoplasma pulmonis*"
 Gram: (-)
-host: M,R
+host: M, R
 특징: 
 증상: 
 순서: 1
