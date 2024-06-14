@@ -4,7 +4,7 @@
 Class: Bacteria
 원인균: "*Filobacterium rodentium* (CAR bacillus)"
 Gram: (-)
-host: M, R, Rb
+host: M, R, rb
 특징: 
 증상: 
 순서: 5
