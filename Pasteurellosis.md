@@ -4,7 +4,7 @@
 Class: Bacteria
 원인균: "*Pasteurella multocida*"
 Gram: (-)
-host: GP, Rb
+host: GP, rb
 특징: 
 증상: 
 순서: 8
