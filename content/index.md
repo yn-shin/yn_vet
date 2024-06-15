@@ -7,8 +7,8 @@ title: yn-vet
 >-   [[조류질병학2 기말고사 목차]]
 >-   [[실험동물의학2 기말고사 목차]]
 >-  [[독성학 기말고사 범위]]
->-  [~~아병리학..어떡하지?~~](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) : CNS 완 - 다음 목표는 피부 - 그다음 골격 - 내분비..? 어디까지 할 수 있을까요? 나머지는 시험 전날에 올라오거나, 말거나 입니다
->-  ⇒ [병리2 14. CNS 정리본 PDF](https://drive.google.com/file/d/1oTQKZeX_FxChspkVs80H5V1irwAGi4e7/view?usp=sharing)
+>-  [~~아병리학..어떡하지?~~](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) : CNS 완 - 다음 목표는 피부 - 그다음 골격 - 내분비..? 어디까지 할 수 있을까요? 이제부터는 시험 전날(혹은 당일)에 올라오거나, 말거나 입니다
+>-  ⇒ [병리2 14. CNS 정리본 PDF](https://drive.google.com/file/d/1oTQKZeX_FxChspkVs80H5V1irwAGi4e7/view?usp=sharing) (족보 출제는 주황 형광펜)
 
 ---
 
