@@ -13,8 +13,8 @@ share: "true"
 ---
 ![[./15. Reoviridae|15. Reoviridae]]
 
-[[../../../../15a. Bluetongue virus|15a. Bluetongue virus]]
+![[../../../../15.1 Bluetongue virus|15.1 Bluetongue virus]]
 
-[[../../../../15b. African horse sickness virus|15b. African horse sickness virus]]
+![[../../../../15.2 African horse sickness virus|15.2 African horse sickness virus]]
 
 [[15c. Rotavirus|15c. Rotavirus]]
