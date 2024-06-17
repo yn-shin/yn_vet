@@ -11,7 +11,8 @@ title: yn-vet
 >-  [[독성학 기말고사 범위]]
 >-  [병리학 정리본 온라인으로 보기](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) (누르면 이동) <br> 14.CNS / 17. Integument 완 -> 다음 계획은 저도 모르겠어요..? 내분비 공부를 할 생각이긴 한데 ~
 >-  ⇒ [병리2 14 + 17 정리본 PDF](https://drive.google.com/file/d/1Q09cwRO_kqt__wxANq14pV8CPqry89GZ/view?usp=sharing) (족보 출제는 주황 형광펜)
->-  ⇒ [병리2 일단 14단원 퀴즐렛(예상문제)](https://quizlet.com/kr/924489112/%EB%B3%91%EB%A6%AC2-14%EB%8B%A8%EC%9B%90-flash-cards/?x=1jqU&i=3z5eqj)
+>-  ⇒ [병리2 14단원 퀴즐렛(예상문제)](https://quizlet.com/kr/924489112/%EB%B3%91%EB%A6%AC2-14%EB%8B%A8%EC%9B%90-flash-cards/?x=1jqU&i=3z5eqj)
+>-  ⇒ [병리2 17단원 퀴즐렛](https://quizlet.com/kr/924858501/%EB%B3%91%EB%A6%AC2-17%EB%8B%A8%EC%9B%90-flash-cards/?funnelUUID=aaf30ccf-8827-4a66-801d-073e65c52b29)
 
 ---
 > 업뎃 알림 및 PDF 공유방 : https://open.kakao.com/o/gMwXohxg (익명 가능ㅜ)<br>계속 업데이트되는데, 계속 광고하기도 민망하고.. 여기저기 뿌려놨더니 어디 올릴지도 애매하고..ㅎㅎ 그런 이유로~
