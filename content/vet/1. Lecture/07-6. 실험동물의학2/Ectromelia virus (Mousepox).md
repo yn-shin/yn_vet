@@ -16,7 +16,7 @@ share: "true"
 >[[../../../../Poxviridae (Ch.7)|Poxviridae (Ch.7)]] - [[../../../../07a. genus Orthopoxvirus|07a. genus Orthopoxvirus]]
 >
 >#공중보건학
->[[../../../../10. Poxviridae|10. Poxviridae]]에서 배운 zoonotic 질병. *variola virus*(smallpox, nonzoonotic)와 가장 유사.
+>[[10. Poxvirid[](../../../../07a.%2520genus%2520Orthopoxvirus.md#)ola virus*(smallpox, nonzoonotic)와 가장 유사.
 
 ### Etiology
 > - family *Poxviridae*
