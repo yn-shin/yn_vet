@@ -11,6 +11,6 @@ site: 세포질
 구분: 기말24
 share: "true"
 ---
-![[./24. Coronaviridae|24. Coronaviridae]]
+ㄸ![[ㅌ|ㅌ]]
 
 ![[./24.1 Transmissible Gastroenteritis Virus (TGE)|24.1 Transmissible Gastroenteritis Virus (TGE)]]
