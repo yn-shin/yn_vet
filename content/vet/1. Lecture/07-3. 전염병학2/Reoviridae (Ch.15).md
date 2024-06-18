@@ -17,4 +17,4 @@ share: "true"
 
 ![[./15.2 African horse sickness virus|15.2 African horse sickness virus]]
 
-[[15c. Rotavirus|15c. Rotavirus]]
+[[./15.3 Rotavirus|15.3 Rotavirus]]
