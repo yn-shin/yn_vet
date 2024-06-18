@@ -12,3 +12,5 @@ site: 세포질
 share: "true"
 ---
 ![[./24. Coronaviridae|24. Coronaviridae]]
+
+![[./24.1 Transmissible Gastroenteritis Virus (TGE)|24.1 Transmissible Gastroenteritis Virus (TGE)]]
