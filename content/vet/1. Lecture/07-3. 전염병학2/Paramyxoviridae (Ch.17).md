@@ -11,5 +11,9 @@ site: 세포질
 구분: 기말17
 share: "true"
 ---
+>[!warning] 기말고사
+
+
+
 ![[./17. Paramyxoviridae|17. Paramyxoviridae]]
 
