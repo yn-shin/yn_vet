@@ -6,10 +6,10 @@ title: yn-vet
 
 >[!warning] 본2-1 기말고사
 >-   [[전염병학2 기말고사 목차]] : 정리 거의 X
->-   ~~[[조류질병학2 기말고사 목차]]~~
 >-   [[실험동물의학2 기말고사 목차]]
 >-  [[독성학 기말고사 범위]]
->-  [병리학 정리본 온라인으로 보기](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) (누르면 이동) <br> 14.CNS / 17. Integument 완 -> 다음 계획은 저도 모르겠어요..? 내분비 공부를 할 생각이긴 한데 ~
+>   ~~[[조류질병학2 기말고사 목차]]~~
+>-  ~~[병리학 정리본 온라인으로 보기](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) (누르면 이동)~~
 >-  ⇒ [병리2 14 + 17 정리본 PDF](https://drive.google.com/file/d/1Q09cwRO_kqt__wxANq14pV8CPqry89GZ/view?usp=sharing) (족보 출제는 주황 형광펜)
 >-  ⇒ [병리2 14단원 퀴즐렛(예상문제)](https://quizlet.com/kr/924489112/%EB%B3%91%EB%A6%AC2-14%EB%8B%A8%EC%9B%90-flash-cards/?x=1jqU&i=3z5eqj)
 >-  ⇒ [병리2 17단원 퀴즐렛](https://quizlet.com/kr/924858501/%EB%B3%91%EB%A6%AC2-17%EB%8B%A8%EC%9B%90-flash-cards/?funnelUUID=aaf30ccf-8827-4a66-801d-073e65c52b29)
