@@ -71,8 +71,3 @@ share: "true"
 #### 감별 진단
 - high mortality : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[../../../../Tyzzer's disease|Tyzzer's disease]], [[./Sendai virus|Sendai virus]] 등
 - skin lesion : [[acariasis|acariasis]], bite wound, bacteria 등
-### Prevention, control
-- 감염된 모체 : 즉시 격리 후 안락사
-- 실험 중인 마우스 : 즉시 실험을 중단하고 격리 후 안락사
-- 감염된 방은 소독 후 감시동물(sentinel animal) 사용
-- 백신은 거의 사용하지 않음

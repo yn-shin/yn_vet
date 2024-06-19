@@ -35,6 +35,3 @@ share: "true"
  - 세포가 커짐. 특히 cervical salivary gland
 	 - eosinophilic 핵내/세포질내 inclusion, enlarged cell
 - 지속 감염 : salivary gland, pancreas의 병변
-### Prevention, Control
-- 감염 모체 : 격리 후 안락사 → rederivation → 검역
-- 실험 중인 동물 : 격리 후 실험 진행

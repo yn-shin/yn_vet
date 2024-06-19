@@ -44,7 +44,3 @@ Zoonoses: Zoonoses
 ### Epizootiology
 - 설치류 → 사람, 직접 접촉, 분비물 접촉
 - 불현성 감염 → morbidity, mortality = 0
-
-### Prevention
-- 감염된 모체 : 즉시 격리 후 안락사
-- 실험 중인 동물 : 즉시 격리 후 안락사

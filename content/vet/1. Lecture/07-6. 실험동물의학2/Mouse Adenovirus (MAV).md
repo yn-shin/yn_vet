@@ -35,7 +35,3 @@ share: "true"
 | infant | - 무기력, 성장 정체, 10일 내 폐사<br>- 갈색 지방, 심근/부신 피질/침샘/신장 등에서<br>괴사 및 핵내 봉입체 관찰 | - 일시적 성장 정체<br>- intranuclear inclusion |
 | adult  |                   - 무증상<br>- 지속 감염, 장기간 소변으로 virus 배출                   |    - 무증상<br>- 적어도 3주간 분변으로 virus 배출     |
 |  nude  |                     - wasting disease / 장출혈, 일부 폐사                      |            - 6주-6개월간 바이러스 배출            |
-
-### Prevention
-- 감염 모체 : 격리 후 안락사 → rederivation → 검역
-- 실험 중인 동물 : 격리 후 실험 진행

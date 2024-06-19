@@ -21,6 +21,7 @@ share: "true"
 > - family *Arenaviridae*
 > 	- genus *Arenavirus*
 
+- Zoonoses
 ### Clinical signs
 
 | Type               | 증상                                               |
@@ -58,8 +59,3 @@ share: "true"
 
 ### Differential diagnosis
 - 신경증상 : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]], 세균 감염에 의한 meningoencephalitis 등
-
-### Prevention
-- 감염된 모체 : 즉시 격리 후 안락사
-- 실험 중인 동물 : 즉시 격리 후 안락사
-- Zoonoses

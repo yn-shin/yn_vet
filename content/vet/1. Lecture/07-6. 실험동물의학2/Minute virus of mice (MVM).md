@@ -38,6 +38,4 @@ share: "true"
 	 - DBA/2 : 장출혈 (intestinal hemorrhage)
 	 - C57BL/6 : asymptomatic
 ### Prevention, Control
-- 감염된 모체 :  격리 후 안락사 → rederivation → 검역
-- 실험 중 마우스 : 격리 후 실험 진행
 - transplantable mouse tumor를 통해 전염 common

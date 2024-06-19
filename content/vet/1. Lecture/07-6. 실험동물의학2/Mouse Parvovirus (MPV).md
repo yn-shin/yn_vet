@@ -8,7 +8,7 @@ family: Parvoviridae
 genome: DNA
 host: M
 Class: Virus
-특징: 지속감염됨 (infant, adult)
+특징: MVM 비슷하나, 지속감염됨 (infant, adult)
 증상: silent / 림프구 감염
 Zoonoses: 
 share: "true"
@@ -30,7 +30,3 @@ share: "true"
 - 장점막에서 복제된 후, lung, kidney, liver, 림프 장기로 이동
 - lymphocytotropism : lymphocyte 감염. 급성 감염 동안 바이러스가 lymph node에 퍼져 있다가, 지속감염되면 germinal center로 이동\
 ![[../../../Settings/Attached files/Pasted image 20240619174232.png|150]] (소장의 villi. 검정 particle이 virus particle)
-
-### Prevention, Control
-- 감염된 모체 : 격리 후 안락사 → rederivation → 검역
-- 실험 중인 일반 마우스 : 격리 후 실험 진행 (면역 억제 또는 증가되는 점 주의)

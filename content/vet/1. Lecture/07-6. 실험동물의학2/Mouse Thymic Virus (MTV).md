@@ -35,6 +35,3 @@ share: "true"
 	 - 림프절 괴사와 염증
 ### Differential diagnosis
 - Thymus 위축 : [[./Mouse hepatitis virus (MHV)|심각한 MHV 감염]]
-### Prevention, Control
-- 감염 모체 : 격리 후 안락사 → rederivation → 검역
-- 실험 중인 동물 : 격리 후 실험 진행
