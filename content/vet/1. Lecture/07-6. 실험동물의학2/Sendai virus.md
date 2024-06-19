@@ -15,7 +15,7 @@ share: "true"
 모체: 격리 후 안락사 (일반 마우스는 4-6주 격리 후 sentinel mouse)
 실험동물: 격리 후 안락사
 ---
->[!tldr] 관련 문서
+>[!tldr]- 관련 문서
 #전염병학 [[../07-3. 전염병학2/17. Paramyxoviridae|17. Paramyxoviridae]] - syncytium을 형성
 
 ### Etiology
