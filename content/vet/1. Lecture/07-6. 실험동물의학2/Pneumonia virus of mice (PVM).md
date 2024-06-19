@@ -43,6 +43,3 @@ host2:
 
 ### Differential diagnosis
 - 폐렴 : [[./Sendai virus|Sendai]], *Pneumocytis murina*, *carinii*
-### Prevention, Control
-- 감염된 모체 : 격리 후 안락사 → rederivation → 검역
-- 실험 동물 : 격리 후 실험 진행 (호흡기 병변 판정 시 PVM 고려)
