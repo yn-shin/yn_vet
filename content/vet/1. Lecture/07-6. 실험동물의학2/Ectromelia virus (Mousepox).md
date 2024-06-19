@@ -72,5 +72,5 @@ share: "true"
 - 혈청 검사는 ELISA, IFA, MFIA
 
 #### 감별 진단
-- high mortality : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Sendai virus|Sendai virus]] 등
+- #폐사 : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Sendai virus|Sendai virus]] 등
 - skin lesion : [[acariasis|acariasis]], bite wound, bacteria 등
