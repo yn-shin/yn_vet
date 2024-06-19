@@ -17,10 +17,10 @@ share: "true"
 실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
->#전염병학 
+>[전염병학] 
 >[[../../../../Poxviridae (Ch.7)|Poxviridae (Ch.7)]] - [[../../../../07a. genus Orthopoxvirus|07a. genus Orthopoxvirus]]
 >
->#공중보건학
+>[공중보건학]
 >[[10. Poxvirid[](../../../../07a.%2520genus%2520Orthopoxvirus.md#)ola virus*(smallpox, nonzoonotic)와 가장 유사.
 
 ### Etiology
@@ -72,5 +72,5 @@ share: "true"
 - 혈청 검사는 ELISA, IFA, MFIA
 
 #### 감별 진단
-- high mortality : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[../../../../Tyzzer's disease|Tyzzer's disease]], [[./Sendai virus|Sendai virus]] 등
+- high mortality : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Sendai virus|Sendai virus]] 등
 - skin lesion : [[acariasis|acariasis]], bite wound, bacteria 등
