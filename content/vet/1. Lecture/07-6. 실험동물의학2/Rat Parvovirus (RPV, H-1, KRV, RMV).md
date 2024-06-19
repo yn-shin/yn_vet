@@ -11,7 +11,7 @@ family: Parvoviridae
 genome: DNA
 host: R
 특징: KRV에서만 증상, 지속감염
-증상: "이유 전 : 산자 수 감소, 성장 정체, 사산<br>이유 후 : 무증상"
+증상: "이유 전 : 산자 수 감소, 성장 정체, 사산 / 이유 후 : 무증상"
 Zoonoses: 
 share: "true"
 순서: 12
