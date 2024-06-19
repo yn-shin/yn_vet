@@ -6,8 +6,8 @@ Class: Bacteria
 원인균: "*Sterptobacillus moniliformis*"
 Gram: (-)
 host: M, R, GP
-특징: 물린 상처로 전파,  야생 rat에서 사람으로도 전파 가능
-증상: 
+특징: 물린 상처로 전파,  야생 rat에서 사람으로도 전파 가능 / Haverhill fever 원인체
+증상: "[acute] 높은 폐사, 빈혈, 설사, 결막염, 거친 피모<br>[chronic] 지속 감염, 피부 궤양, 관절염, 후지마비,유사산 등"
 순서: 13
 Zoonoses: Zoonoses (야생 설치류)
 ---
