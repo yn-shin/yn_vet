@@ -39,6 +39,3 @@ share: "true"
 	- 지속감염 : 바이러스 항원이 림프구, 내피세포, vascular muscle, renal tubular epithelium에서 관찰
 	- 나이 및 면역력 증가에 따라 감염성 감소
 	- athymic rat : 병변 심하고, 감염 오래 지속
-### Prevention, Control
-- 감염된 모체 : 격리 후 안락사 → Rederivation → 검역
-- 실험동물 : KRV는 격리 후 실험 진행 (면역 억제나 증강이 있을 수 있음)
