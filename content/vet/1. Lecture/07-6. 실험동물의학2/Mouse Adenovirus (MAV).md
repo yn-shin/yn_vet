@@ -8,8 +8,8 @@ family: Adenoviridae
 genome: DNA
 host: M, R
 Class: Virus
-특징: MAV-1, MAV-2
-증상: 
+특징: MAV-1, MAV-2 / MAV-2에 의해 자연 감염 발생, amphophilic
+증상: "[MAV-1] infant 무기력, 성장 정체, 폐사 / adult 무증상<br>[MAV-2] infant 일시적 성장 정체, adult 무증상"
 Zoonoses: 
 share: "true"
 순서: 14
