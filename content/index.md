@@ -8,7 +8,7 @@ title: yn-vet
 >-   [[실험동물의학2 기말고사 목차]]
 >-  [[독성학 기말고사 범위]]
 >- ~~[[전염병학2 기말고사 목차]]~~
->   ~~[[조류질병학2 기말고사 목차]]~~
+>-   ~~[[조류질병학2 기말고사 목차]]~~
 >-  ~~[병리학 정리본 온라인으로 보기](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) (누르면 이동)~~
 >-  ⇒ [병리2 14 + 17 정리본 PDF](https://drive.google.com/file/d/1Q09cwRO_kqt__wxANq14pV8CPqry89GZ/view?usp=sharing) (족보 출제는 주황 형광펜)
 >-  ⇒ [병리2 퀴즐렛(예상문제)](https://quizlet.com/kr/924489112/%EB%B3%91%EB%A6%AC2-14%EB%8B%A8%EC%9B%90-flash-cards/?x=1jqU&i=3z5eqj)
