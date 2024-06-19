@@ -34,4 +34,4 @@ share: "true"
 	 - 핵내 봉입체, 육아종성(granulomatous) 염증, syncytium
 	 - 림프절 괴사와 염증
 ### Differential diagnosis
-- Thymus 위축 : [[./Mouse hepatitis virus (MHV)|심각한 MHV 감염]]
+- #흉선위축 : [[./Mouse hepatitis virus (MHV)|심각한 MHV 감염]]
