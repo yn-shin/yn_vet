@@ -5,15 +5,13 @@ title: yn-vet
 진도가 느린 편이라 도움이 못 될 수도 있지만 열심히 정리하고 있으니, 많이 이용해주시면 기뻐요🙇‍♀️
 
 >[!warning] 본2-1 기말고사
->-   [[전염병학2 기말고사 목차]] : 정리 거의 X
 >-   [[실험동물의학2 기말고사 목차]]
 >-  [[독성학 기말고사 범위]]
+>-  >-   ~~[[전염병학2 기말고사 목차]]~~
 >   ~~[[조류질병학2 기말고사 목차]]~~
 >-  ~~[병리학 정리본 온라인으로 보기](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) (누르면 이동)~~
 >-  ⇒ [병리2 14 + 17 정리본 PDF](https://drive.google.com/file/d/1Q09cwRO_kqt__wxANq14pV8CPqry89GZ/view?usp=sharing) (족보 출제는 주황 형광펜)
->-  ⇒ [병리2 14단원 퀴즐렛(예상문제)](https://quizlet.com/kr/924489112/%EB%B3%91%EB%A6%AC2-14%EB%8B%A8%EC%9B%90-flash-cards/?x=1jqU&i=3z5eqj)
->-  ⇒ [병리2 17단원 퀴즐렛](https://quizlet.com/kr/924858501/%EB%B3%91%EB%A6%AC2-17%EB%8B%A8%EC%9B%90-flash-cards/?funnelUUID=aaf30ccf-8827-4a66-801d-073e65c52b29)
->-  ⇒ [병리 14+17 2차퀴즈](https://quizlet.com/kr/924915936/%EB%B3%91%EB%A6%AC2-2%EC%B0%A8-flash-cards/)
+>-  ⇒ [병리2 퀴즐렛(예상문제)](https://quizlet.com/kr/924489112/%EB%B3%91%EB%A6%AC2-14%EB%8B%A8%EC%9B%90-flash-cards/?x=1jqU&i=3z5eqj)
 
 ---
 > 업뎃 알림 및 PDF 공유방 : https://open.kakao.com/o/gMwXohxg (익명 가능ㅜ)<br>계속 업데이트되는데, 계속 광고하기도 민망하고.. 여기저기 뿌려놨더니 어디 올릴지도 애매하고..ㅎㅎ 그런 이유로~
