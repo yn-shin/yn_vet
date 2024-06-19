@@ -51,4 +51,4 @@ host2:
  - 만성적으로 말이집 탈락. 척수의 leptomeninges와 white matter에서 자주 발생
 	 - patchy demyelination이 동반 (여기저기 지저분하게 보인다는 의미)
 ### Differential diagnosis
-- 신경 증상 : [[./Mouse hepatitis virus (MHV)#Strain & Clinical signs & Pathology|MHV의 neurotropic strain]]
+- #신경증상 : [[./Mouse hepatitis virus (MHV)#Strain & Clinical signs & Pathology|MHV의 neurotropic strain]]
