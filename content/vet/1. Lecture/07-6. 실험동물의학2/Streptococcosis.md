@@ -7,7 +7,7 @@ Class: Bacteria
 Gram: (+)
 host: M, R, (H), GP
 특징: 화농균 → 가는 곳마다 농 형성
-증상: 
+증상: "[마우스] (β-hemolytic) 피부염, 결막염, 쇠약 등<br>[랫드] (α-hemolytic) 상부호흡기 화농성 염증 / [기니픽] Streptococcus zooepidemicus"
 순서: 10
 ---
 - *Streptococcus* spp. - 운동성 없음, gram (+)
@@ -16,14 +16,14 @@ host: M, R, (H), GP
 
 ### Clinical signs & Pathology
 
-|             | β-hemolytic Streptococci                                                                             | S. pneumoniae (α)                                                                                                                  |
-| ----------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Mouse**   | - 상부호흡기 감염 → 무증상<br>- 피부 감염 → 궤양성 피부염<br>- 전신 감염 → 결막염, 피모 거침, 과호흡, 쇠약, 비몽사몽                         | 불현성 감염<br>- SCID : 전신 감염                                                                                                           |
-| ㄴ pathology | 혈관을 통해 전신 감염 시 농양, 심내막염, 비장/림프절 종대 등                                                                 | <                                                                                                                                  |
-| **Rat**     | asymptomatic                                                                                         | - 일반적으로 asymptomatic<br>- 상부호흡기 화농성 염증                                                                                             |
-| ㄴ pathology | 기관지폐렴, 때때로 섬유농성 pleuritis(흉막염)<br>→ bacteremia에 의해 흉막, 윤활막 섬유농성 염증                                   | <                                                                                                                                  |
-| Guinea pig  | <font color="#7f7f7f"><b>Streptococcus zooepidemicus</b> <br>(후술, 기니픽 질병 중 가장 병원성 높음)</font>         | - 상부호흡기 → 무증상, 감염률 50% 이상<br>- stress, 영양 나쁨 → 임상 증상<br>- high mortality<br>- 급성 아니면, 우울, 식욕부진, 눈/코 분비물,<br>기침, 재채기, 호흡곤란, 사경, 유사산 |
-| ㄴ pathology | 섬유농성 흉막염(pleuritis), 심낭염(pericarditis), 복막염(peritonitis),<br>화농성 폐렴, 중이염, 자궁내막염(endometritis), 관절염 등 | <                                                                                                                                  |
+|             | β-hemolytic Streptococci                                                                     | S. pneumoniae (α)                                                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Mouse**   | - 상부호흡기 감염 → 무증상<br>- 피부 감염 → 궤양성 피부염<br>- 전신 감염 → 결막염, 피모 거침, 과호흡, 쇠약                       | 불현성 감염<br>- SCID : 전신 감염                                                                                                           |
+| ㄴ pathology | 혈관을 통해 전신 감염 시 농양,<br>심내막염, 비장/림프절 종대 등                                                      |                                                                                                                                    |
+| **Rat**     | asymptomatic                                                                                 | - 일반적으로 asymptomatic<br>- 상부호흡기 화농성 염증                                                                                             |
+| ㄴ pathology |                                                                                              | 기관지폐렴, 때때로 섬유농성 pleuritis(흉막염)<br>→ bacteremia에 의해 흉막, 윤활막 섬유농성 염증                                                                 |
+| Guinea pig  | <font color="#7f7f7f"><b>Streptococcus zooepidemicus</b> <br>(후술, 기니픽 질병 중 가장 병원성 높음)</font> | - 상부호흡기 → 무증상, 감염률 50% 이상<br>- stress, 영양 나쁨 → 임상 증상<br>- high mortality<br>- 급성 아니면, 우울, 식욕부진, 눈/코 분비물,<br>기침, 재채기, 호흡곤란, 사경, 유사산 |
+| ㄴ pathology |                                                                                              | 섬유농성 흉막염(pleuritis), 심낭염(pericarditis), 복막염(peritonitis),<br>화농성 폐렴, 중이염, 자궁내막염(endometritis), 관절염 등                               |
 - *Streptococcus*는 화농균으로, 가는 곳마다 농성(purulent) 질병을 유발함
 
 >[!quote] Streptococcus zooepidemicus (기니픽)
