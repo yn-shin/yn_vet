@@ -33,4 +33,4 @@ host: M, R, H
 ### Diagnosis
 - Blood agar
 - #건락성괴사 : [[./Streptococcosis|Streptococcosis]], [[./Mycoplasmosis|Mycoplasmosis]], 다른 농양 등
-
+- #화농성 감별진단
