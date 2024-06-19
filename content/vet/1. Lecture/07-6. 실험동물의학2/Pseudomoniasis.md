@@ -28,4 +28,5 @@ host: M, R
 
 ### Diagnosis 
 - *Pseudomonas* isolation agar, *Pseudomonas* agar P
-- #세균성패혈증 : [[../../../../Corynebacteriosis|Corynebacteriosis]], [[./Salmonellosis|Salmonellosis]], [[../../../../Staphylococcosis|Staphylococcosis]], [[./Tyzzer's disease|Tyzzer's disease]]
+- #세균성패혈증 : [[./Corynebacteriosis|Corynebacteriosis]], [[./Salmonellosis|Salmonellosis]], [[./Staphylococcosis|Staphylococcosis]], [[./Tyzzer's disease|Tyzzer's disease]]
+- #화농성 감별진단
