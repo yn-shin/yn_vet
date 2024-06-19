@@ -49,7 +49,7 @@ host: M, R
 	- bronchopneumonia(기관지폐렴) : 기관지 주위에 림프구 침윤, 내강에 neutrophil 침윤
 	- 만성화되면 화농성 기관지염, 세기관지염, 폐포염, 기관지확장증(bronchiectasis), 농양 증가
 ### Differential diagnosis
-- #호흡기질환 : [[../../../../Filobacterium rodentium|Filobacterium rodentium]], [[./Sendai virus|sendai]], [[./Pneumonia virus of mice (PVM)|PVM]], [[../../../../Corynebacteriosis|Corynebacteriosis]], 면역결핍 마우스의 Pneumocytis murina 등
+- #호흡기질환 #폐렴 : [[../../../../Filobacterium rodentium|Filobacterium rodentium]], [[./Sendai virus|sendai]], [[./Pneumonia virus of mice (PVM)|PVM]], [[../../../../Corynebacteriosis|Corynebacteriosis]], 면역결핍 마우스의 Pneumocytis murina 등
 
 ### Prevention
 - 둘 다 격리 후 안락사
