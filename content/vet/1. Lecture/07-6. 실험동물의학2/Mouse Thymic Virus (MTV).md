@@ -1,7 +1,7 @@
 ---
 aliases:
-  - MCMV
-  - cytomegalovirus
+  - MTV
+  - Mouse Thymic Virus
 과목:
   - 실험동물의학2
 family: Herpesviridae
@@ -12,7 +12,7 @@ Class: Virus
 증상: 무증상 / 분만 전후 감염 시 병변(thymus 위축, 괴사 등)
 Zoonoses: 
 share: "true"
-순서: 13.1
+순서: 15
 모체: 격리 후 안락사
 실험동물: 격리 후 실험 진행
 ---
