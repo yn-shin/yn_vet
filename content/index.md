@@ -7,7 +7,7 @@ title: yn-vet
 >[!warning] 본2-1 기말고사
 >-   [[실험동물의학2 기말고사 목차]]
 >-  [[독성학 기말고사 범위]]
->-  >-   ~~[[전염병학2 기말고사 목차]]~~
+>- ~~[[전염병학2 기말고사 목차]]~~
 >   ~~[[조류질병학2 기말고사 목차]]~~
 >-  ~~[병리학 정리본 온라인으로 보기](https://miro.com/app/board/uXjVKGWi_mU=/?share_link_id=354299279465) (누르면 이동)~~
 >-  ⇒ [병리2 14 + 17 정리본 PDF](https://drive.google.com/file/d/1Q09cwRO_kqt__wxANq14pV8CPqry89GZ/view?usp=sharing) (족보 출제는 주황 형광펜)
