@@ -7,9 +7,11 @@ Genus: Orthopoxvirus
 genome: DNA
 host: M
 특징: 우리나라에는 X, 세포질내 A&B type 봉입체
-증상: "[acute] 폐사 / [chronic] 발진(rash)  <br> 피부 감염 →,국소 림프절 증식 → 전신 장기 이동 → 2차 viremia → 원래 피부에서 skin lesion"
+증상: "[급성] 폐사 / [만성] 발진(rash)<br>피부 감염 → 국소 림프절 증식 → 전신 장기 이동 → 2차 viremia → 원래 피부에서 skin lesion"
 순서: 2
 share: "true"
+모체: 격리 후 안락사
+실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
 >#전염병학 
