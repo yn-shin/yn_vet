@@ -10,6 +10,8 @@ Class: Virus
 Zoonoses: 
 share: "true"
 순서: 4
+모체: 격리 후 안락사
+실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
 > #전염병학 [[../07-3. 전염병학2/Coronaviridae (Ch.24)|Coronaviridae (Ch.24)]]

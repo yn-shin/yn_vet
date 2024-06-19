@@ -10,6 +10,8 @@ Class: Virus
 Zoonoses: Zoonoses
 share: "true"
 순서: 3
+모체: 격리 후 안락사
+실험동물: 격리 후 안락사
 ---
 
 >[!tldr]- 관련 문서

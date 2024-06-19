@@ -10,6 +10,8 @@ host: M, R
 순서: 1
 share: "true"
 Zoonoses: Zoonoses
+모체: 격리 후 안락사
+실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
 >#공중보건학
