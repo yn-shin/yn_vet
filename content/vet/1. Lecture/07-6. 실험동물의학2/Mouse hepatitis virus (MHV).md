@@ -1,4 +1,7 @@
 ---
+aliases:
+  - MHV
+  - Mouse hepatitis virus
 과목:
   - 실험동물의학2
 family: Coronaviridae
