@@ -22,6 +22,8 @@ host2:
   - Mouse
   - Rat
   - Hamster
+모체: 격리 후 안락사
+실험동물: 격리 후 실험 진행
 ---
 ### Etiology
 > - family *Paramyxoviridae*
