@@ -15,17 +15,20 @@ host: M, R, (H), GP
 	- β-hemolytic *Streptococci* : 주로 마우스
 
 ### Clinical signs & Pathology
+- *Streptococcus*는 화농균으로, 가는 곳마다 농성(purulent) 질병을 유발함
 
-|            | β-hemolytic Streptococci                                                                     | S. pneumoniae (α)                                                                                                                 |
+| 임상 증상      | β-hemolytic Streptococci                                                                     | S. pneumoniae (α)                                                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Mouse**  | - **상부호흡기 감염 → 무증상**<br>- 피부 감염 → 궤양성 피부염<br>- 전신 감염 → 결막염, 피모 거침, 과호흡, 쇠약                   | 불현성 감염<br>- SCID : 전신 감염                                                                                                          |
 | **Rat**    | asymptomatic                                                                                 | - 일반적으로 asymptomatic<br>- **상부호흡기 화농성 염증**                                                                                        |
 | Guinea pig | <font color="#7f7f7f"><b>Streptococcus zooepidemicus</b> <br>(후술, 기니픽 질병 중 가장 병원성 높음)</font> | - 상부호흡기 → 무증상, 감염률 50% 이상<br>but stress, 영양 나쁨 → 증상 나타남<br>- high mortality<br>- 급성이 아니면, 우울, 식욕부진, 눈/코 분비물,<br>기침, 호흡곤란, 사경, 유사산 |
-- *Streptococcus*는 화농균으로, 가는 곳마다 농성(purulent) 질병을 유발함
-- Pathology
-	- Mouse (β) : 혈관을 통해 전신 감염 시 농양, 심내막염, 비장/림프절 종대 등
-	- Rat (α) : 기관지폐렴, 때때로 섬유농성 pleuritis(흉막염) → bacteremia에 의해 흉막, 윤활막 섬유농성 염증
-	- Guinea pig (α) : 섬유농성 흉막염(pleuritis), 심낭염(pericarditis), 복막염(peritonitis), 화농성 폐렴, 중이염, 자궁내막염(endometritis), 관절염 등
+
+|                               |                                              Pathology                                               |
+| :---------------------------: | :--------------------------------------------------------------------------------------------------: |
+|  **Mouse**<br>(β-hemolytic)   |                                 혈관을 통해 전신 감염 시 농양, 심내막염, 비장/림프절 종대 등                                 |
+|  **Rat**<br>(S. pneumoniae)   |                   기관지폐렴, 때때로 섬유농성 pleuritis(흉막염) → bacteremia에 의해 흉막, 윤활막 섬유농성 염증                    |
+| Guinea pig<br>(S. pneumoniae) | 섬유농성 흉막염(pleuritis), 심낭염(pericarditis), 복막염(peritonitis), 화농성 폐렴, 중이염,<br>자궁내막염(endometritis), 관절염 등 |
+
 
 >[!quote] Streptococcus zooepidemicus (기니픽)
 >- *S. zooepidemicus*에 의함 (β-hemolytic)
