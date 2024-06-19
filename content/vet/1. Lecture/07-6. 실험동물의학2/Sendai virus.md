@@ -47,6 +47,7 @@ share: "true"
 - multinucleated syncytium이 때때로 SCID mouse에서 관찰
 ### Differential diagnosis
 - #폐렴 : [[./Pneumonia virus of mice (PVM)|PVM]], mycoplasmosis
+- #폐사 
 
 ![[../../../Settings/Attached files/Pasted image 20240619165611.png|400]]![[../../../Settings/Attached files/Pasted image 20240619165638.png|310]]
 

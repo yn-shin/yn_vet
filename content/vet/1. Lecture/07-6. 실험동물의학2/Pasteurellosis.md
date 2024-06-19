@@ -23,5 +23,7 @@ host: GP, rb
 | **Abscess**                 | 피하, 내장 쪽 *Pasturella* 농양                                                                                                              |
 | **Septicemia**              | 임상증상 없이 급성 폐사                                                                                                                         |
 | **Genital tract infection** | - 암컷 : 장액성, 점액성, 점액농성 질 분비물, 종종 유산/산자 수 감소<br>- 수컷 : 고환염(orchitis), 부고환염(epididymitis)                                                |
+### Diagnosis
+- #화농성 감별진단 
 ### Treatment
 - Penicillin G, Enrofloxacin, Tilmicosin
