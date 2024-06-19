@@ -15,7 +15,7 @@ share: "true"
 ---
 
 >[!tldr]- 관련 문서
->#공중보건학 
+>[공중보건학]
 >[[../../../../Lymphocytic Choriomeningitis (LCM)|Lymphocytic Choriomeningitis (LCM)]] : 공보에서 배웠으나 정리 못함..
 ### Etiology
 > - family *Arenaviridae*
