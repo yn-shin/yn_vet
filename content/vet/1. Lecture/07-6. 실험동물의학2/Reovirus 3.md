@@ -41,5 +41,5 @@ share: "true"
 - Chronic phage : wasting, alopecia, icterus, 간비종대(hepatosplenomegaly)
 
 ### Differential diagnosis
-- diarrhea : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus or EDIM]], [[../../../../Salmonellosis|Salmonellosis]]
+- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus or EDIM]], [[../../../../Salmonellosis|Salmonellosis]]
 
