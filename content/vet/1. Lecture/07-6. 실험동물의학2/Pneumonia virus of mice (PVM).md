@@ -42,4 +42,4 @@ host2:
  - 면역 결핍 마우스는 심각한 진행성, 간질성 폐렴 (육안적으로도 경화 관찰)
 
 ### Differential diagnosis
-- 폐렴 : [[./Sendai virus|Sendai]], *Pneumocytis murina*, *carinii*
+- #폐렴 : [[./Sendai virus|Sendai]], *Pneumocytis murina*, *carinii*
