@@ -39,4 +39,4 @@ share: "true"
 	- 세포질 팽창과 함께 융모 상피세포에서 vaculation
 	- lamina propria의 부종
 ### Differential diagnosis
-- diarrhea : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Reovirus 3|Reovirus 3]], [[../../../../Tyzzer's disease|Tyzzer's disease]], [[../../../../Salmonellosis|Salmonellosis]]
+- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Reovirus 3|Reovirus 3]], [[../../../../Tyzzer's disease|Tyzzer's disease]], [[../../../../Salmonellosis|Salmonellosis]]

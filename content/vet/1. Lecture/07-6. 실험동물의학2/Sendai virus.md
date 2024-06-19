@@ -46,7 +46,7 @@ share: "true"
 - 감수성 있는 마우스에서 기관지 폐렴, 간질성 폐렴 (감수성 낮으면 기관지폐렴만)
 - multinucleated syncytium이 때때로 SCID mouse에서 관찰
 ### Differential diagnosis
-- 폐렴을 유발하는 [[./Pneumonia virus of mice (PVM)|PVM]], mycoplasmosis와 감별 진단
+- #폐렴 : [[./Pneumonia virus of mice (PVM)|PVM]], mycoplasmosis
 
 ![[../../../Settings/Attached files/Pasted image 20240619165611.png|400]]![[../../../Settings/Attached files/Pasted image 20240619165638.png|310]]
 

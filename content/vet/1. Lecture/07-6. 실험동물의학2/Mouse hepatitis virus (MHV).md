@@ -49,8 +49,9 @@ share: "true"
 - syncytium 확인
 - neutralization test : strain 감별
 ### Differential diagnosis
-- 설사, suckling mouth의 runting&death, wasting disease : [[./Ectromelia virus (Mousepox)|Mousepox]], [[./Mouse rotavirus or EDIM|Mouse rotavirus]], [[./Reovirus 3|Reovirus 3]], [[../../../../Tyzzer's disease|Tyzzer's disease]], [[../../../../Salmonellosis|Salmonellosis]]
-- 신경증상 : [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]] 등
+- #설사, suckling mouth의 runting&death, wasting disease : [[./Ectromelia virus (Mousepox)|Mousepox]], [[./Mouse rotavirus or EDIM|Mouse rotavirus]], [[./Reovirus 3|Reovirus 3]], [[../../../../Tyzzer's disease|Tyzzer's disease]], [[../../../../Salmonellosis|Salmonellosis]]
+- #신경증상 : [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]] 등
+- #흉선위축 
 ### Prevention, Control
 - 모성면역에 의해 이유 전 마우스는 감염을 막을 수 있음
   → 이유한 바우스는 오염되지 않는 시설에서 사육

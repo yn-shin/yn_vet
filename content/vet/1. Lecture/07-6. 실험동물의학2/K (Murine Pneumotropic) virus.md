@@ -30,4 +30,4 @@ share: "true"
   → 폐, 간, 비장, 부신의 vascular endothelium에 감염 + intranuclear inclusion
 - mild hepatitis, 육안적인 폐부종 및 출혈
 ### Differential diagnosis
-- intranuclear inclusion : [[./Mouse Adenovirus (MAV)|MAV]], [[./Mouse cytomegalovirus (MCMV)|MCMV]], [[./Polyomavirus|Polyomavirus]] 등
+- #핵내봉입체 : [[./Mouse Adenovirus (MAV)|MAV]], [[./Mouse cytomegalovirus (MCMV)|MCMV]], [[./Polyomavirus|Polyomavirus]] 등

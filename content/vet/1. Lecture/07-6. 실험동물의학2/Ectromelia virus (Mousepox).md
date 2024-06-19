@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Mousepox
+  - Ectromelia virus
 과목:
   - 실험동물의학2
 Class: Virus
