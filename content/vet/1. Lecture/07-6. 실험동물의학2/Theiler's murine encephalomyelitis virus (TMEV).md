@@ -52,6 +52,3 @@ host2:
 	 - patchy demyelination이 동반 (여기저기 지저분하게 보인다는 의미)
 ### Differential diagnosis
 - 신경 증상 : [[./Mouse hepatitis virus (MHV)#Strain & Clinical signs & Pathology|MHV의 neurotropic strain]]
-### Prevention, Control
-- 감염된 모체 : 격리 후 안락사 → Rederivation → 검역
-- 실험 중인 동물 : 격리 후 실험 진행 (신경계 관련 병변 판정할 때 주의)
