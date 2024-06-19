@@ -10,8 +10,10 @@ host: M, R, GP
 증상: 
 순서: 10
 ---
-
-- α-hemolytic Streptococcus
+- *Streptococcus* spp.
+- 운동성 없음, gram (+)
+- S. pneumoniae : α-hemolytic *Streptococcus*
+- 
 
 
 S. pneumoniae
