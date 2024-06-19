@@ -16,7 +16,7 @@ share: "true"
 실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
-> #전염병학 [[../07-3. 전염병학2/17. Paramyxoviridae|17. Paramyxoviridae]] - syncytium을 형성
+> [전염병학] [[../07-3. 전염병학2/17. Paramyxoviridae|17. Paramyxoviridae]] - syncytium을 형성
 
 ### Etiology
 > - family *Paramyxoviridae*

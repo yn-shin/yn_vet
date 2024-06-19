@@ -17,7 +17,7 @@ share: "true"
 실험동물: 격리 후 실험 진행
 ---
 >[!tldr]- 관련 문서
->#전염병학 [[../../../../Parvoviridae (Ch.12)|Parvoviridae (Ch.12)]] : 크기가 작은 ssDNA
+>[전염병학] [[../../../../Parvoviridae (Ch.12)|Parvoviridae (Ch.12)]] : 크기가 작은 ssDNA
 ### Etiology
 > - family *Parvoviridae*
 > 	- genus *Parvovirus*

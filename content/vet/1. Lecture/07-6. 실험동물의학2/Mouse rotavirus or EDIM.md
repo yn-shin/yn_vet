@@ -16,7 +16,7 @@ share: "true"
 순서: 20
 ---
 >[!tldr]- 관련 문서
->#전염병학 [[../07-3. 전염병학2/15.3 Rotavirus infection|15.3 Rotavirus infection]] - Reovirus 3번째 Rota에서 epizootic diarrhea of infant mice(폐사율 낮음) 배움
+>[전염병학] [[../07-3. 전염병학2/15.3 Rotavirus infection|15.3 Rotavirus infection]] - Reovirus 3번째 Rota에서 epizootic diarrhea of infant mice(폐사율 낮음) 배움
 
 ### Etiology
 >- family *Reoviridae*
@@ -39,4 +39,4 @@ share: "true"
 	- 세포질 팽창과 함께 융모 상피세포에서 vaculation
 	- lamina propria의 부종
 ### Differential diagnosis
-- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Reovirus 3|Reovirus 3]], [[../../../../Tyzzer's disease|Tyzzer's disease]], [[../../../../Salmonellosis|Salmonellosis]]
+- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Reovirus 3|Reovirus 3]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Salmonellosis|Salmonellosis]]

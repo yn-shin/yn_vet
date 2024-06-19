@@ -16,7 +16,7 @@ share: "true"
 ---
 
 >[!tldr]- 관련 문서
->#전염병학 [[../../../../Herpesviridae (Ch.9)|Herpesviridae (Ch.9)]]
+>[전염병학] [[../../../../Herpesviridae (Ch.9)|Herpesviridae (Ch.9)]]
 ### Etiology
 > - family *Herpesviridae*
 > 	- subfamily *Betaherpesvirinae*

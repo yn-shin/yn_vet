@@ -12,7 +12,7 @@ share: "true"
 순서: 19
 ---
 >[!tldr]- 관련 문서
->#전염병학 [[../07-3. 전염병학2/15. Reoviridae#genus별 특징 비교|15. Reoviridae]] 에서 Orthoreovirus 배움, 흔치 않은 dsRNA이자 nonenvelope
+>[전염병학] [[../07-3. 전염병학2/15. Reoviridae#genus별 특징 비교|15. Reoviridae]] 에서 Orthoreovirus 배움, 흔치 않은 dsRNA이자 nonenvelope
 ### Etiology
 >- family *Reoviridae*
 >	- genus *Orthoreovirus*
@@ -41,5 +41,5 @@ share: "true"
 - Chronic phage : wasting, alopecia, icterus, 간비종대(hepatosplenomegaly)
 
 ### Differential diagnosis
-- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus or EDIM]], [[../../../../Salmonellosis|Salmonellosis]]
+- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus or EDIM]], [[./Salmonellosis|Salmonellosis]]
 

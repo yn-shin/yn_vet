@@ -15,7 +15,6 @@ Zoonoses: Zoonoses
 - 항온동물(사람 포함) : *S. enterica*
 - 마우스에 *S*. Typhimurium, *S*. Enteritidis `주의) 대문자, 이탤릭체X`
 - gram (-), 간균, 운동성 있음
-- SS agar 사용
 ### Clinical signs
 
 | 동물         | 증상                                                                                                                                                                        |
@@ -37,5 +36,6 @@ Zoonoses: Zoonoses
 | Mouse      | - 장에서 peyer's patches로 → mesenteric LN → bacteremia (다른 장기 이동)<br>- 만성감염 시 비장, 림프절, 간 등에 존재하다 장으로 배출<br>- visceral hyperemia, pale liver, catarrhal enteritis 관찰 (급성 폐사하기도 함)<br>- 수 주 생존 시 장 확장&출혈, 간과 비장 확장, yellow-gray spot, 림프절 확장<br>- [급성] 장간막 림프절, 간, 비자 등의 necrotic foci, 때때로 간의 혈전증<br>- [만성] 간의 육아종성 병변 |
 | Rat        | - 맹장, 회장 점막의 비후 및 궤양, 비장 종대<br>- 조직병리 : 장에서  lamina propria 부종, leykocyte 침윤<br>- peyer's patch, 비장, 장간막림프절 → lymphoid hyperplasia, neutrophil 침윤 등                                                                                                                                                                |
 | Guinea pig | Hepatomegaly, splenomegaly, 내장 장기의 small yellow necrotic foci                                                                                                                                                                                                                                                      |
-### Differential diagnosis
+### Diagnosis
+- SS agar 사용
 - #간염, #장염 : [[./Tyzzer's disease|Tyzzer's disease]], [[../../../../Helicobacteriosis|Helicobacteriosis]], [[../../../../Corynebacteriosis|Corynebacteriosis]]. [[./Citrobacter rodentium infection|Citrobacter rodentium infection]], [[../../../../Pasteurellosis|Pasteurellosis]], [[./Rat coronavirus|Rat coronavirus]], [[./Ectromelia virus (Mousepox)|Ectromelia]], [[./Reovirus 3|Reovirus 3]] 등
