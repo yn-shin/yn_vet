@@ -9,5 +9,5 @@ Class: Virus
 증상: 
 Zoonoses: 
 share: "true"
-순서: 21
+순서: 22
 ---
