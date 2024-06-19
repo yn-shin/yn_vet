@@ -6,6 +6,7 @@ title: yn-vet
 
 >[!warning] 본2-1 기말고사
 >-   [[실험동물의학2 기말고사 목차]]
+>- ⇒ [바이러스성 질병 총정리 PDF](https://drive.google.com/file/d/1D6dOMIiW3W3ovttfktHF-lUMGV47ErgH/view?usp=sharing)
 >-  [[독성학 기말고사 범위]]
 >- ~~[[전염병학2 기말고사 목차]]~~
 >-   ~~[[조류질병학2 기말고사 목차]]~~
