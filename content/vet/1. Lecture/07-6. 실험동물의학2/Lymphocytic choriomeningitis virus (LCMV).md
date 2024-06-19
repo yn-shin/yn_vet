@@ -58,4 +58,4 @@ share: "true"
 - (조직병리) 대뇌에서 비화농성 뇌염 관찰
 
 ### Differential diagnosis
-- 신경증상 : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]], 세균 감염에 의한 meningoencephalitis 등
+- #신경증상 : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]], 세균 감염에 의한 meningoencephalitis 등
