@@ -14,7 +14,7 @@ Zoonoses: Zoonoses
 실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
->#공중보건학
+>[공중보건학]
 >[[../../../../05. Bunyaviridae|05. Bunyaviridae]]
 
 
