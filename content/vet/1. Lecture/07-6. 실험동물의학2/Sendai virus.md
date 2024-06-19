@@ -47,10 +47,6 @@ share: "true"
 - multinucleated syncytium이 때때로 SCID mouse에서 관찰
 ### Differential diagnosis
 - 폐렴을 유발하는 [[./Pneumonia virus of mice (PVM)|PVM]], mycoplasmosis와 감별 진단
-### Prevention, Control
-- 감염된 모체 : 격리 후 안락사 → rederivation → 검역
-	- 일반 마우스는 4-6주 격리, sentinel mouse
-- 실험 중인 동물은 즉시 격리 후 안락사 (전염성도 높고, 병원성도 높음)
 
 ![[../../../Settings/Attached files/Pasted image 20240619165611.png|400]]![[../../../Settings/Attached files/Pasted image 20240619165638.png|310]]
 
