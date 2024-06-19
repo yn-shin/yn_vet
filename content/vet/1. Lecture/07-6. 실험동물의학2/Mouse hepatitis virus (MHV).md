@@ -31,11 +31,11 @@ share: "true"
 - 감수성 차이는 virus strain-dependent
 ### Strain & Clinical signs & Pathology
 
-| Strain                             | <                           | 증상                                                      | 병리                                                                                                                     |
-| ---------------------------------- | --------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Enterotropic** strain<br>(=장친화성) | 최초 **장관상피** 증식<br>분변으로 배출   | (신생) 식욕부진, 설사, 폐사<br>(2-3주) runting, ruffled fur        | - intestine → 주변 림프조직 (일부는 간, 뇌까지)<br>- terminal ileum, cecum, proximal colon에서 흔함<br>- syncytium (장점막, 장간막림프절 등)      |
-| **Polytropic** strain<br>(=여러 장기)  | 최초 **호흡기계** 증식<br>여러 장기로 전파 | (mild form에 감염된 누드 마우스)<br>progressive wasting syndrome | - 비강 점막 → 주변 혈관<br>→ viremia, 2차로 실질장기(간,뇌, 림프)<br>- 부검 시 yellow-white spot (특히 간)<br>- syncytium (장기의 괴사조직과 정상조직 경계부) |
-| ㄴneutrotropic variant(JHM)         | <                           | 후지 마비, 경련, circling                                     | 새끼에서 괴사성 뇌염, 말이집 탈락 등                                                                                                  |
+| Strain                             |                           | 증상                                                      | 병리                                                                                                                     |
+| ---------------------------------- | ------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Enterotropic** strain<br>(=장친화성) | 최초 **장관상피** 증식, 분변으로 배출   | (신생) 식욕부진, 설사, 폐사<br>(2-3주) runting, ruffled fur        | - intestine → 주변 림프조직 (일부는 간, 뇌까지)<br>- terminal ileum, cecum, proximal colon에서 흔함<br>- syncytium (장점막, 장간막림프절 등)      |
+| **Polytropic** strain<br>(=여러 장기)  | 최초 **호흡기계** 증식, 여러 장기로 전파 | (mild form에 감염된 누드 마우스)<br>progressive wasting syndrome | - 비강 점막 → 주변 혈관<br>→ viremia, 2차로 실질장기(간,뇌, 림프)<br>- 부검 시 yellow-white spot (특히 간)<br>- syncytium (장기의 괴사조직과 정상조직 경계부) |
+| ㄴneurotropic variant(JHM)          |                           | 후지 마비, 경련, circling                                     | 새끼에서 괴사성 뇌염, 말이집 탈락 등                                                                                                  |
 - 그 외 strain
 	- <u>both</u> biotype strain : 둘 다 친화성
 	- 5 prototype polytropic strains : MHV-1, MHV-3, MHV-4(JHM), MHV-S, MHV-A59
