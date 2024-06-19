@@ -10,7 +10,7 @@ host: M, R
 증상: 자연 감염 무증상 / nude mouse 패혈증 → lethal
 순서: 6
 ---
-- *Pseudomonas aeruginosa* (녹농균)
+yz- *Pseudomonas aeruginosa* (녹농균)
 - 운동성 있음, gram (-)
 - 물, 토양, 오물, 동물의 피부와 장 등에 존재
 ### Clinical signs
