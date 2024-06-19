@@ -40,9 +40,3 @@ share: "true"
 - 회복기(7-10일)에 하부 호흡기 병변이 사라지고, squamous metaplasia^[ductal epithelium은 일반적으로 입방 상피나 원주 상피인데, 편평 상피로 바뀜]
 - 감염 4주 : 상피세포는 정상으로 되지만, Harderian gland에서는 병변이 몇 주 더 지속
 
-### Prevention, Control
-- 감염된 모체는 격리 후 안락사 → rederivation으로 검역
-- 일반 랫드는 2-4주 격리, sentinal rat로 검역
-- 실험 중인 동물은 격리 후 안락사가 맞지만(전염성O). 중요 실험의 경우 격리하고 실험 진행
-	- salivary gland, lacrimal gland, haderian gland, respiratory epithelium은 감염에 의한 것인지 실험에 의한 것인지 판별 필요
-
