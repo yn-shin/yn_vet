@@ -19,9 +19,7 @@ share: "true"
 >[!tldr]- 관련 문서
 >[전염병학] 
 >[[../../../../Poxviridae (Ch.7)|Poxviridae (Ch.7)]] - [[../../../../07a. genus Orthopoxvirus|07a. genus Orthopoxvirus]]
->
->[공중보건학]
->[[10. Poxvirid[](../../../../07a.%2520genus%2520Orthopoxvirus.md#)ola virus*(smallpox, nonzoonotic)와 가장 유사.
+>[](../../../../Poxviridae%2520(Ch.7).md#)iri[](../../../../07a.%2520genus%2520Orthopoxvirus.md#)irus.md)ola virus*(smallpox, nonzoonotic)와 가장 유사.
 
 ### Etiology
 > - family *Poxviridae*
