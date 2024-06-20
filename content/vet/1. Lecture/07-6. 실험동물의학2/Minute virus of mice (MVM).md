@@ -18,8 +18,7 @@ share: "true"
 ---
 >[!tldr]- 관련 문서
 >[전염병학] [[../../../../Parvoviridae (Ch.12)|Parvoviridae (Ch.12)]] : 크기가 작은 ssDNA
-### Etiology
-> - family *Parvoviridae*
+### Eti[](../../../../Parvoviridae%2520(Ch.12).md#)iridae*
 > 	- genus *Parvovirus*
 
 - ssDNA, nonenveloped, small, 15-28nm.

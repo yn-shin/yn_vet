@@ -19,8 +19,7 @@ share: "true"
 
 >[!tldr]- 관련 문서
 >[전염병학] [[../../../../Herpesviridae (Ch.9)|Herpesviridae (Ch.9)]]
-### Etiology
-> - family *Herpesviridae*
+### Eti[](../../../../Herpesviridae%2520(Ch.9).md#)viridae*
 > 	- subfamily *Betaherpesvirinae*
 > 		- genus *Muromegalovirus*
 > 			- *Murid herpesvirus 3*
