@@ -10,7 +10,7 @@ host: M
 증상: 젖을 떼는 마우스에서 설사, 직장 탈출, 체중 정체, ruffled fur 등
 순서: 4
 ---
-- *Citrobacter rodentinum*
+ㄴ- *Citrobacter rodentinum*
 - gram (-), 운동성 없음
 - Transmissible murine colonic hyperplasia (전염성 마우스 결장 증식) 유발
 ### Clinical signs & Epizootiology
@@ -29,4 +29,4 @@ host: M
 
 ### Diagnosis
 - DHL or MacConkey's agar
-- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus]], [[./Reovirus 3|Reovirus 3]], [[./Salmonellosis|Salmonellosis]], [[./Tyzzer's disease|Tyzzer's disease]], [[../../../../Helicobacteriosis|Helicobacteriosis]]
+- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus]], [[./Reovirus 3|Reovirus 3]], [[./Salmonellosis|Salmonellosis]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Helicobacteriosis|Helicobacteriosis]]
