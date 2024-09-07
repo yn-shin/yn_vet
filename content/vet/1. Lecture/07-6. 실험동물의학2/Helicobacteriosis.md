@@ -9,7 +9,7 @@ host: M, (R)
 특징: 종 다양 / fecal-oral route
 증상: 간 병변(간염, 간세포종양) / 대장 병변(맹결장염, **IBD**)
 순서: 12
-Zoonoses: "*H, pullorum* zoonotic"
+Zoonoses: "*H. pullorum* zoonotic"
 ---
 - *Helicobacter spp.*
 - spiral-shaped, gram (-)
