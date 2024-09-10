@@ -15,9 +15,9 @@ share: "true"
 - 절족동물에 물린 후 2-14일의 잠복기를 거쳐 강한 두통, 발진, 맥관염, 림프절 종창을 동반하여 발열
 - 거의 모든 리케치아성 질병에서 발진이 나타남
 
-다리가 6개일 때 피를 빨아먹음
-뚱뚱-해져서 숙주에서 떨어짐
-변태과정을 거쳐 다리가 8개 됨 → 이때는 빨아먹지 않음
+- 다리가 6개일 때 피를 빨아먹음
+- 뚱뚱-해져서 숙주에서 떨어짐
+- 변태과정을 거쳐 다리가 8개 됨 → 이때는 빨아먹지 않음
 
 human to human 불가, 반드시 중간에 vector가 끼어야 함
 
@@ -39,11 +39,11 @@ human to human 불가, 반드시 중간에 vector가 끼어야 함
 
 | 질병                                                                                                     | 원인균                                                                            | 감염양식              | 증상                               |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ----------------- | -------------------------------- |
-| [[../../../../Ⅳ-1. 발진열 (Murine Typhus)\|Ⅳ-1. 발진열 (Murine Typhus)]]             | Rickettsia prowazekii                                                          | \-                | \-                               |
-| [[../../../../Ⅳ-2. 발진티프스 (sporadic typhus)\|Ⅳ-2. 발진티프스 (sporadic typhus)]]     | R. prowazekii                                                                  | \-                | \-                               |
+| [[./질병/Ⅳ-1. 발진열 (Murine Typhus)\|Ⅳ-1. 발진열 (Murine Typhus)]]             | Rickettsia prowazekii                                                          | \-                | \-                               |
+| [[./질병/Ⅳ-2. 발진티프스 (sporadic typhus)\|Ⅳ-2. 발진티프스 (sporadic typhus)]]     | R. prowazekii                                                                  | \-                | \-                               |
 | [[../../../../Ⅳ-3. 홍반열 (spotted fever group)\|Ⅳ-3. 홍반열 (spotted fever group)]] | Rickettsia rickettsii (→ Rocky mountain fever)<br>R. quintana (→ Trench fever) | 감염된 진드기에 의해 교상 감염 | 출혈성 점상진                          |
 | [[../../../../Ⅳ-4. Rickettsialpox\|Ⅳ-4. Rickettsialpox]]                       | R. akari                                                                       | \-                | \-                               |
-| [[../../../../Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐\|Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐]]   | Oreientia tsutsugamushi                                                        | \-                | \-                               |
+| [[./질병/Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐\|Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐]]   | Oreientia tsutsugamushi                                                        | \-                | \-                               |
 | [[../../../../Ⅳ-6. 큐열 (Q fever) ⭐\|Ⅳ-6. 큐열 (Q fever) ⭐]]                       | **Coxiella burnieti**                                                          | \-                | 사람에서 병원성 높고, <br>동물에서 불현성(거의 없음) |
 | [[../../../../Ⅳ-7. Ehrlichiosis\|Ⅳ-7. Ehrlichiosis]]                           | Ehrlichia spp.(canis, sennetsu, equi 등)                                        | **Meta**zoonoses  | \-                               |
 
