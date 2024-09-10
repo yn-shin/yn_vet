@@ -16,10 +16,10 @@ share: "true"
 ## 1. 병원체의 생활사에 따른 분류
 
 ![[../../../Settings/Attached files/Pasted image 20231101115958.png|400]]
-A : 동종 간의 전파
-B : 이종 간의 전파 (reservior가 여러 개)
-C : Vector-borne disease (Metazoonoses) : LSD(Lumpy Skin Disease)
-D : Saprozoonoses유기물.
+- A : 동종 간의 전파
+- B : 이종 간의 전파 (reservior가 여러 개)
+- C : Vector-borne disease (Metazoonoses) - LSD(Lumpy Skin Disease)
+- D : Saprozoonoses유기물.
 
 ### 1️⃣ Directzoonoses
 
@@ -34,23 +34,26 @@ D : Saprozoonoses유기물.
 	- 무구조충증(Taenia saginatus) : 소와 사람 사이에 전염
 	- 유구조충증(Taenia solium) : 돼지와 사람 사이에 전염^[무구, 유구조충 다 사람이 종숙주(definitive host)]
 	- **[[../../../../포충증(Echinococcus)|포충증(Echinococcus)]]**^[포충이라는 기생충이 아니라, 하나의 병을 말하는 것. 단방조충, 다방조충 등이 해당. 체절 하나가 떨어질 때마다 완벽한 adult가 되는 애들] : 양과 목양견 사이에 순환, 사람은 우연 감염
-![[../../../Settings/Attached files/Pasted image 20231101112628.png|400]]
-A : 사람-소의 전파이므로 무구조충증 (소 말고 돼지가 있으면 유구조충증)
-B : 초식동물-육식동물의 전파. 그림(목양견과 양)은 포충증^[점선은 생활사에 필수가 아니라, 우연 감염됨을 의미]
-양 대신 설치류가 들어가면 다방조충에 의한 포충증
+
+
+<br>
+![[Pasted image 20231101112628.png|400]]
+- A : 사람-소의 전파이므로 무구조충증 (소 말고 돼지가 있으면 유구조충증)
+- B : 초식동물-육식동물의 전파. 그림(목양견과 양)은 포충증^[점선은 생활사에 필수가 아니라, 우연 감염됨을 의미]
+- 양 대신 설치류가 들어가면 다방조충에 의한 포충증
 
 ### 3️⃣ Metazoonoses 
 
 - ==척추동물(종숙주)==와 ==무척추동물(매개, 중간숙주)==를 함께 필요로 함
 - 파리, 모기, 진드기 등이 흡혈을 통해 매개 (vector borne disease)
 ![[../../../Settings/Attached files/Pasted image 20231101113544.png|400]]
-A : yellow fever : 모기→원숭이→모기. 사람은 모기에 의해 우연감염
-	A에서 동물의 종이 바뀌는 경우? 고래회충 (새우→물고기→사람)
-B : **폐흡충증(Paragonimiasis)**. 다슬기→민물가재→잡식성 포유류(ex. 사람)
+- A : yellow fever : 모기→원숭이→모기. 사람은 모기에 의해 우연감염
+	- A에서 동물의 종이 바뀌는 경우? 고래회충 (새우→물고기→사람)
+- B : **폐흡충증(Paragonimiasis)**. 다슬기→민물가재→잡식성 포유류(ex. 사람)
 ![[../../../Settings/Attached files/Pasted image 20231101113932.png|400]]
-C : 간흡충
-제2중간숙주를 지난 애들에게서만 감염됨. 제1중간숙주로는 감염X
-D : Tick-borne disease (진드기-진드기) (난계대: 충분히 자기 안에서 생활사가 되지만, 다른 동물들이 우연감염됨)
+- C : 간흡충
+	- 제2중간숙주를 지난 애들에게서만 감염됨. 제1중간숙주로는 감염X
+- D : Tick-borne disease (진드기-진드기) (난계대: 충분히 자기 안에서 생활사가 되지만, 다른 동물들이 우연감염됨)
 
 ### 4️⃣ Saprozoonoses
 
@@ -61,9 +64,9 @@ D : Tick-borne disease (진드기-진드기) (난계대: 충분히 자기 안에
 - **간질증(Fasciolasis)** : 반추동물 → 미나리(민물의 수초)^[동물은 아니지만 숙주에 포함됨. 'infectious stage' 상 민물의 수초를 반드시 거쳐야 사람이 감염됨] → 반추동물/사람
 - 파상풍, botulism : 토양
 ![[../../../Settings/Attached files/Pasted image 20231101114140.png|400]]
-A : Saprozoonoses & Directzoonoses (분변에 오염된 병원체가 자연계에서 생활환을 거침)
-B : 병원체의 유래가 토양
-C : Saprozoonoses & Metazoonoses (사람이 수초(미나리)를 먹다가 감염)
+- A : Saprozoonoses & Directzoonoses (분변에 오염된 병원체가 자연계에서 생활환을 거침)
+- B : 병원체의 유래가 토양
+- C : Saprozoonoses & Metazoonoses (사람이 수초(미나리)를 먹다가 감염)
 
 ## 질병의 전파 방향에 따른 분류
 
