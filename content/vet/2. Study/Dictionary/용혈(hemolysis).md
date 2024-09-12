@@ -2,9 +2,9 @@
 share: "true"
 ---
 
-![[../../../Settings/Attached files/Pasted image 20231017192351.png|200]]
+![[Pasted image 20231017192351.png|200]]
 
-![[../../../Settings/Attached files/Pasted image 20231017224553.png|Pasted image 20231017224553.png]]
+![[Pasted image 20231017224553.png|Pasted image 20231017224553.png]]
 
 - **α**(alpha) **hemolysis** : **불완전** 용혈(incomplete, partial)
 	- colony 주위로 넓게 ==초록색 zone==을 형성함

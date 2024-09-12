@@ -7,19 +7,19 @@ Oxidase: "?"
 모양: 구균(연쇄상)
 ---
 
-![[../../../Settings/Attached files/Pasted image 20231017230748.png|Pasted image 20231017230748.png]]
+![[Pasted image 20231017230748.png|Pasted image 20231017230748.png]]
 
 - 구균이 쭉 연결된 형태의 연쇄상구균.
 - 대부분 기회감염으로 감염, 농양 병소를 유발함.^[둘 다 staphylococcus와 똑같다]
 
-> [[./Ch.14 Staphylococcus(포도상구균)#^576771|하계성 유방염]] (Peptostreptococcus. indolicus)
+> [[Ch.14 Staphylococcus(포도상구균)#^576771|하계성 유방염]] (Peptostreptococcus. indolicus)
 > [[Ch.15 Streptococci (연쇄상구균)|Ch.15 Streptococci (연쇄상구균)]]
 
 > **Streptococcus**
 > 	Streptococcus Pneumonia : 폐렴(사람), 유방염(소)
 > 	Streptococcus pyogenes : 주로 사람; 유방염(소), 편도염(개), 림프관염(망아지)
-> 	S. equi : [[Ch.15 Streptococci (연쇄상구균)#Strangle (선역)|Strangle (선역)]]
-> 	S. suis : [[Ch.15 Streptococci (연쇄상구균)#Streptococcal Diseases in Swine(돼지의 연쇄구균 감염증)|Streptococcal Diseases in Swine(돼지의 연쇄구균 감염증)]], 사람 
+> 	S. equi : [[#Strangle (선역)| > Strangle (선역)]]
+> 	S. suis : [[#Streptococcal Diseases in Swine(돼지의 연쇄구균 감염증)| > Streptococcal Diseases in Swine(돼지의 연쇄구균 감염증)]], 사람 
 > 	S. dysagalactiae(S.equisimilis) : 연쇄구균감염증(돼지)
 > 	S. porcinus : 연쇄구균감염증(돼지)
 > 	Streptococcus canis : 개. neonetal septicemia, 농양 병소, toxic shock syndrome
@@ -30,7 +30,7 @@ Oxidase: "?"
 
 - 가장 병원성이 강함
 - 그람 양성 구균, catalase 음성, 선택적 혐기성, 운동성이 없음.^[역시 staphylococcus와 똑같다]
-- [[../../2. Study/Dictionary/용혈(hemolysis)|용혈]]을 유발하기 때문에, 혈청이 포함된 배지에서 잘 자람
+- [[용혈(hemolysis)|용혈]]을 유발하기 때문에, 혈청이 포함된 배지에서 잘 자람
 
 # Enterococcus
 
@@ -41,7 +41,7 @@ Oxidase: "?"
 
 # Strangle (선역)
 
-- **원인균** : Streptococcus equi ( S. equi) / 원인체는 ==[[../../../../Lancefield|Lancefield]] group C==에 속함
+- **원인균** : Streptococcus equi ( S. equi) / 원인체는 ==[[Lancefield|Lancefield]] group C==에 속함
 - 말과의 동물에서만 발병하는 전염성이 강한 질병
 - 병원성이 강한 ==β hemolysis를 유발==함.
 - 감염 시 열이 많이 나며, 상부 호흡기부터 두경부 쪽의 림프절까지 침입하여 증식하며 농양을 형성
@@ -52,7 +52,7 @@ Oxidase: "?"
 - 호흡기를 통해 먼저 감염된 후, 점막으로부터 두경부 쪽의 림프절로 전이
 	- 림프절에서 균이 오래 증식하면서, 림프절 내에서는 이미 괴사가 진행, 농이 참
 	- 섬유화된 세포들이 감쌈
-- ==두꺼운 capsule과 [[../../../../M protein|M protein]]==이 세균을 보호해 줌
+- ==두꺼운 capsule과 [[M protein|M protein]]==이 세균을 보호해 줌
 
 
 **증상**
@@ -65,7 +65,7 @@ Oxidase: "?"
 - 감염율은 ~100%, 치사율은 5% 미만
 - 사망 : 폐렴, 신경손상, 질식(asphyxia) 등에 의해서 죽을 수 있음.
 	- 질식 : 경구 쪽 림프절이 많이 부으면서 기도를 눌러 질식을 유발
-	- 출혈성 자반병(Purpura Hemorrhagia) : ==Type Ⅲ [[../../../../Hypersensitivity|Hypersensitivity]] ==에 의한 vasculitis(혈관염) 때문
+	- 출혈성 자반병(Purpura Hemorrhagia) : ==Type Ⅲ [[Hypersensitivity|Hypersensitivity]] ==에 의한 vasculitis(혈관염) 때문
 
 **치료**
 - penicillin 이 효과적

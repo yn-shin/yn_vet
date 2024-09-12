@@ -20,7 +20,7 @@ Oxidase: "-"
 - 아포(spore)와 협막(capsule)이 없다.
 - 증상 : mastitis, abortion, circling, microabscess, septicemia, endothalmitis
 - 자기 flagella가 아니라, 숙주의 microfilament를 이용해 이동^[자기도 flagella 가짐, 그러나 숙주 안에서는 숙주 거 씀!]
-![[../../../Settings/Attached files/Pasted image 20231018150149.png|Pasted image 20231018150149.png]]
+![[Pasted image 20231018150149.png|Pasted image 20231018150149.png]]
 
 # Listeria species의 differentiation
 
@@ -42,7 +42,7 @@ Oxidase: "-"
 - 세포 내에서 활발하게 증식
 - 세포를 파괴하지 않고, 인접한 세포를 밀고 들어가며 전파 
 - 세포 안쪽 막에 접촉하여 pseudopod-like projections 형성 (세포막 볼록하게 변형)
-![[../../../Settings/Attached files/Pasted image 20231004150101.png|250]]
+![[Pasted image 20231004150101.png|250]]
 
 # Listeriosis in ruminants
 

@@ -10,7 +10,7 @@ Oxidase:
   - 간균(죽절상)
 ---
 
-![[../../../Settings/Attached files/Pasted image 20231006112409.png|200]]  ^f836b2
+![[Pasted image 20231006112409.png|200]]  ^f836b2
 
 - 대부분 크기가 크고, gram양성 이며, endospore를 생성하는 간균. (간혹 gram 음성의 비병원성 균도 존재)
 - 일반적으로 간균끼리 연결되어 죽절상^[대나무 마디] 또는 체인 모양^[single, pair 형태로도 존재함]
@@ -18,7 +18,7 @@ Oxidase:
 	- B. anthracis, B. mycoides는 예외적으로 운동성을 가지지 않음
 - **B. anthracis** : **탄저균**, 치명적인 패혈증을 유발
 
-[[Ch.21 Bacillus species(간균)#^f836b2|사진]] >> 균체 내에 하얗게 보이는 부분이 endospore (균체 외부에도 존재)
+[[#^f836b2|사진]] >> 균체 내에 하얗게 보이는 부분이 endospore (균체 외부에도 존재)
 
 # Bacillus vs. Clostridia
 
@@ -49,7 +49,7 @@ Oxidase:
 	- EF가 Calmodulin-dependent ==Adenylate Cyclase==로 작용해서 ATP → cAMP로 변환
 	- cAMP가 증가하면 세포내 수분 축적, 조직 전체에 부종 유발
 3) **Lethal Toxin : PA+LF**
-	- Macrophage가 [[../../../../TNF-α|TNF-α]] & IL-1β^[둘은 전형적으로 염증을 촉진하는 cytokine]를 대량으로 생산하게끔 함
+	- Macrophage가 [[TNF-α|TNF-α]] & IL-1β^[둘은 전형적으로 염증을 촉진하는 cytokine]를 대량으로 생산하게끔 함
 	- 괴사를 유발하여 세포 죽음
 	- ==zink metalloprotease==로 혈액 응고 저하를 일으킴
 - complex toxin이 작용하면 혈관 내피세포에 심한 손상

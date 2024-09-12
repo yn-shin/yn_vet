@@ -25,7 +25,7 @@ Oxidase: "-"
 - 간혹 장에 감염되면 설사를 유발함 (호흡기 증상이 주, 예외적으로 장-설사)
 
 - blood agar 상에서 ==non-hemolytic==. 분홍색의 끈적끈적한 colony 형성
-- CAMP test (+) : [[./Ch.14 Staphylococcus(포도상구균)|Staphylococcus]] aureus 와 만나면 완전 용혈(β-hemolysis)을 일으킨다.
+- CAMP test (+) : [[Ch.14 Staphylococcus(포도상구균)|Staphylococcus]] aureus 와 만나면 완전 용혈(β-hemolysis)을 일으킨다.
 
 ### 예방
 

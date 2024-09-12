@@ -1,0 +1,1 @@
+- California mastitis test(CMT)로 원유 속 ==DNA== 양을 측정하여 간접적으로 백혈구 및 다른 세포들의 개수나 양을 측정함
