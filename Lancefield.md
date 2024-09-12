@@ -1,0 +1,1 @@
+Lancefield test ;세균 세포막 단백질 항원에 반응하는 항체를 이용하여 균을 grouping
