@@ -9,16 +9,16 @@ Oxidase: "?"
 
 
 > **Actinomyces**
-> 	Actinomyces bovis : 소의 oropharynx에서 발견되는 상재균, [[Ch.16 Actinobacteria (방선균)#Bovine Actinomycosis(Lumpy Jaw) (방선균증)|Bovine Actinomycosis(Lumpy Jaw) (방선균증)]]
-> 	Actinomyces viscosus : 개와 사람의 oral cavity, [[Ch.16 Actinobacteria (방선균)#Canine Actinomyces|Canine Actinomyces]]
+> 	Actinomyces bovis : 소의 oropharynx에서 발견되는 상재균, [[#Bovine Actinomycosis(Lumpy Jaw) (방선균증)| > Bovine Actinomycosis(Lumpy Jaw) (방선균증)]]
+> 	Actinomyces viscosus : 개와 사람의 oral cavity, [[#Canine Actinomyces| > Canine Actinomyces]]
 > **Actinobaculum**
 > 	Actinobaculum suis : 수퇘지의 preputial mucosa. 생식기와 방광, 신장.
 > **Arcanobacterium**
-> 	[[Ch.16 Actinobacteria (방선균)#Arcanobacterium pyogenes|Arcanobacterium pyogenes]]
+> 	[[#Arcanobacterium pyogenes| > Arcanobacterium pyogenes]]
 > **Nocardia**
-> 	Nocardia asteroids : [[Ch.16 Actinobacteria (방선균)#Canine Nocardiosis|Canine Nocardiosis]]
+> 	Nocardia asteroids : [[#Canine Nocardiosis| > Canine Nocardiosis]]
 > **Dermatophilus**
-> 	[[Ch.16 Actinobacteria (방선균)#Dermatophilus congolensis|Dermatophilus congolensis]] : Dermatophilosis; Cutaneous Streptotrichosis
+> 	[[#Dermatophilus congolensis| > Dermatophilus congolensis]] : Dermatophilosis; Cutaneous Streptotrichosis
 ^7d0364
 
 - 사방으로 뻗쳐나가는 모양을 가지는 Actino균
@@ -55,7 +55,7 @@ Oxidase: "?"
 # Arcanobacterium pyogenes
 
 - 소, 돼지, 양 등의 비인두 점막에 상재, 용혈을 유발하는 exotoxin을 생성.
-- 소, 돼지, 양에서 [[../../../../suppurative|suppurative]] lesions 형성
+- 소, 돼지, 양에서 [[suppurative|suppurative]] lesions 형성
 - Summer mastitis에 관여
 - Osteomyelitis 유발 ==Gel 내 침강반응== 이용해 진단; 항원은 ==protease 사용==, 항체가 ==16배== 이상이면 양성
 - 척추의 농양은 꼬리 교상부의 화농소에서 상행성으로 전파
@@ -65,7 +65,7 @@ Oxidase: "?"
 # Canine Nocardiosis
 
 - 원인균 : Nocardia asteroids
-	- 세포벽의 mycolic acid로 인해 Acid-fast. [[../../../../Gram|Gram]] staining이 되지 않아 MZN 염색
+	- 세포벽의 mycolic acid로 인해 Acid-fast. [[Gram|Gram]] staining이 되지 않아 MZN 염색
 	- Penicillin G에 저항성
 	- 호기성, Saprophytic Actinomycetes(토양에 존재하는 일종의 노폐균)
 
