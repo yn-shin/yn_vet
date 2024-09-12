@@ -42,4 +42,4 @@ host: M, R, (H), GP
 ### Diagnosis
 - Blood agar에서 균 분리
 		- *S. pneumoniae*에서 optochin inhibition test 가능 (inhibition 특히 큰 편)
-- #화농성 : [[./Staphylococcosis|Staphylococcosis]], [[../../../../Pastuerellosis|Pastuerellosis]], [[./Corynebacteriosis|Corynebacteriosis]], [[./Pseudomoniasis|Pseudomoniasis]]
+- #화농성 : [[./Staphylococcosis|Staphylococcosis]], [[Pastuerellosis|Pastuerellosis]], [[./Corynebacteriosis|Corynebacteriosis]], [[./Pseudomoniasis|Pseudomoniasis]]
