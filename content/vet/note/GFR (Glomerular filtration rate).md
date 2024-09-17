@@ -31,8 +31,8 @@ BOX:
 - Creatinine, iohexol 이용 (inulin은 잘 이용하지 않음)
 - 외부에서 물질을 주입하여, 일정 시간 동안 [혈장에 존재하는 양] & [소변으로 빠져나가는 양] 을 파악하여 공식을 통해 측정
 - 최소 12-24시간의 측정이 필요하여 번거로움, 측정 가능한 업체가 적음
- ![[../../Settings/Attached files/Pasted image 20240917203957.png|350]]
-![[../../Settings/Attached files/Pasted image 20240917204231.png|350]]
+ ![350](../../Settings/Attached%20files/Pasted%20image%2020240917203957.png)
+![350](../../Settings/Attached%20files/Pasted%20image%2020240917204231.png)
 
 ## 평가 방법 2 (Plasma clearance methods)
 
@@ -41,7 +41,7 @@ BOX:
 - IV로 외부 물질(creatinine, iohexol) 주입 후 정해진 시간마다 (4-10시간) 채혈하여 해당 물질의 농도 측정, 공식 이용하여 계산
 - 혈액을 뽑아서 하므로 간단하나, 반복 채혈해야 하는 단점.
 - 사람에서는 자주 이용되나 수의학에서는 크게 X
-![[../../Settings/Attached files/Pasted image 20240917204506.png|350]]
+![350](../../Settings/Attached%20files/Pasted%20image%2020240917204506.png)
 
 ## Azotemia (질소 혈증)
 
