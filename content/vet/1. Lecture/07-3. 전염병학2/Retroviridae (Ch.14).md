@@ -15,8 +15,8 @@ share: "true"
 
 >[!tldr] 관련 문서
 >#조류질병학 
->[[../07-4. 조류질병학2/13. Lymphoid Leukosis (LL)#Ⅲ. Etiology|13. Lymphoid Leukosis]] (*Alpharetrovirus*), 
->[[../07-4. 조류질병학2/14. Reticuloendotheliosis (RE)|14. Reticuloendotheliosis (RE)]] (*Gammaretrovirus*-Reticuloendotheliosis 나타내는 그룹)
+>[[13. Lymphoid Leukosis (LL)#Ⅲ. Etiology|13. Lymphoid Leukosis]] (*Alpharetrovirus*), 
+>[[14. Reticuloendotheliosis (RE)|14. Reticuloendotheliosis (RE)]] (*Gammaretrovirus*-Reticuloendotheliosis 나타내는 그룹)
 >에서 비슷한 replication 내용을 배운 바 있음
 
 >[!warning] 기말고사 
@@ -28,19 +28,19 @@ share: "true"
 >	- 임상증상이 서로 겹치는 3 step : Acute stage, Long subclinical stage, Terminal stage
 >	- 질병 진행될수록 CD4+ T cell 감소, CD8+ T cell 증가해서 CD4+/CD8+ ratio의 역전이 나타남
 
-![[./14. Retroviridae|14. Retroviridae]]
+![[14. Retroviridae|14. Retroviridae]]
 
 
 ---
 
 
-![[./14.1 Feline Leukemia and Sarcoma virus|14.1 Feline Leukemia and Sarcoma virus]]
+![[14.1 Feline Leukemia and Sarcoma virus|14.1 Feline Leukemia and Sarcoma virus]]
 
 ---
 
-![[./14.2 Equine Infectious Anemia virus|14.2 Equine Infectious Anemia virus]]
+![[14.2 Equine Infectious Anemia virus|14.2 Equine Infectious Anemia virus]]
 
-![[./14.3 Feline Immunodeficiency virus|14.3 Feline Immunodeficiency virus]]
+![[14.3 Feline Immunodeficiency virus|14.3 Feline Immunodeficiency virus]]
 
-![[./14.4 Bovine Leukemia virus|14.4 Bovine Leukemia virus]]
+![[14.4 Bovine Leukemia virus|14.4 Bovine Leukemia virus]]
 
