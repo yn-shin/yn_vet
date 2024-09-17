@@ -10,6 +10,8 @@ BOX:
 차시: 1주차
 진행률:
   - 정리_중간
+tags:
+  - 08중간
 ---
 
 # Clinical Approach and Laboratory Evaluation of Urinary Disease
@@ -34,7 +36,7 @@ BOX:
 
 ### Urine formation
 
-![[../../Settings/Attached files/Pasted image 20240917191025.png|400]]
+![[Pasted image 20240917191025.png|400]]
 
 - 신장의 기본 단위 : **Nephron**
 	- 네프론 = 신소체(renal corpuscle) + 신세뇨관(renal tubules)
@@ -47,10 +49,10 @@ BOX:
 >- 일반적으로 6만 달톤의 크기 → 대부분의 세포는 이보다 커서 정상적으로는 여과되지 않는다.
 >	- 사구체염이나 손상으로 podocyte가 손실되어 구멍이 커지면 무분별한 여과가 발생.
 >- 처음 빠져나가는 액체 = 여과액 = 물, 작은 용질(urea, creatin 등)을 포함
->![[../../Settings/Attached files/Pasted image 20240917192256.png|300]]
+>![[Pasted image 20240917192256.png|300]]
 
 - 정상적인 urine 생성량 (dog&cats) : **20-45mL/kg/day**
-![[../../Settings/Attached files/Pasted image 20240917192556.png|550]]
+![[Pasted image 20240917192556.png|550]]
 
 ## 2. Clinical Approach
 
@@ -110,7 +112,7 @@ BOX:
 
 Complete physical examination
 
-![[../../Settings/Attached files/Pasted image 20240917201130.png|550]]
+![[Pasted image 20240917201130.png|550]]
 
 | 항목                             | 내용                                                       |
 | ------------------------------ | -------------------------------------------------------- |
@@ -126,7 +128,6 @@ Complete physical examination
 | **Fibrous osteodystrophy (골형성이상)** | (특히 어린 동물에서)                                             |
 
 intraluminal = within a lumen (내강)
-
 intramural = 벽내..인듯?
 
 ### (4) Diagnostic tests (신장 기능 검사) 
@@ -137,11 +138,15 @@ intramural = 벽내..인듯?
 
 ##### 🔺 Glomerular filtration rate (GFR, 사구체 여과율)
 
-![[./GFR (Glomerular filtration rate)|GFR (Glomerular filtration rate)]]
+![[GFR (Glomerular filtration rate)|GFR (Glomerular filtration rate)]]
 
 ##### 🔺 Blood urea nitrogen (BUN)
 
+![[Blood urea nitrogen (BUN)|Blood urea nitrogen (BUN)]]
+
 ##### 🔺 Serum creatinine (SCr)
+![[Serum creatinine (SCr)|Serum creatinine (SCr)]]
+
 
 ##### 🔺 Symmetric dimethylarginine (SDMA)
 
