@@ -147,9 +147,15 @@ intramural = 벽내..인듯?
 ##### 🔺 Serum creatinine (SCr)
 ![[Serum creatinine (SCr)|Serum creatinine (SCr)]]
 
+---
+
 ![[BUN과 SCr의 relationship|BUN과 SCr의 relationship]]
 
 ##### 🔺 Symmetric dimethylarginine (SDMA)
+
+![[Symmetric dimethylarginine (SDMA)|Symmetric dimethylarginine (SDMA)]]
+
+
 
 ##### 🔺 Evaluation of proteinuria (단백뇨)
 
