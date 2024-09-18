@@ -22,12 +22,10 @@ BOX:
 > - pre-renal azotemia와 intrinsic renal failure를 구분.
 > - AKI(acute kidney injury)에서 회복에 대한 prognostic marker.
 
-<br>
 
 >[!info] FC<sub>potassium</sub>
 >- [[hypokalemia|hypokalemia]] (저칼륨혈증)의 renal / non-renal 원인을 구분.
 
-<br>
 
 >[!info] FC<sub>phosphate</sub>
 >- CKD 환자에서 인 제한(phosphate restriction)이 잘 되었는지 (식이적으로, 또는 인 흡착제 활용 시)

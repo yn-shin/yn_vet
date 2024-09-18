@@ -18,8 +18,8 @@ BOX:
 - 신부전 고양이에서 SDMA 상승 후 creatinine 상승까지 17개월 더 소요
   신부전 개에서 SDMA 상승 후 azotemia 확인될 때까지 9.8개월 소요
   (빠른 진단 가능)
+  
   ![[Pasted image 20240918011911.png|300]]
 - Reference range : 개와 고양이에서 0-14 μg/dL
 - IRIS stage : 혈중 creatinine, SDMA 농도에 근거하여 판단
-  ![[Pasted image 20240918012020.png|500]]
-  (18이 기준이나, reference range는 아직 14 기준)
+  ![[Pasted image 20240918012020.png|500]]<br>  (18이 기준이나, reference range는 아직 14 기준)
