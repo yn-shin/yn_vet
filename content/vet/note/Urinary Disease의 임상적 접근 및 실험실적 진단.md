@@ -16,7 +16,7 @@ tags:
 
 # Clinical Approach and Laboratory Evaluation of Urinary Disease
 
-## 1. Kidney
+# 1. Kidney
 
 - 신장 질환은 개나 고양이에서 호발하는 장기 이상 질환으로, 환자의 사망률에 영향을 끼치는 주 원인이다.
 - 신장 질환의 유병률(prevalence) 또한 높은 편. (개에서 0.5-7%, 고양이에서 1.6-20%)
@@ -34,7 +34,7 @@ tags:
 		- 비타민D → 미네랄 대사 영향 인자(parathyroid hormone, clacitonin 등) 조절하는 역할
 		- 만성 신부전 환자의 경우, 비타민D/칼슘/인 등 호르몬 분비에 영향을 받기 때문에 뼈 대사에 장애를 줄 수 있음
 
-### Urine formation
+## Urine formation
 
 ![[Pasted image 20240917191025.png|400]]
 
@@ -52,11 +52,11 @@ tags:
 >![[Pasted image 20240917192256.png|300]]
 
 - 정상적인 urine 생성량 (dog&cats) : **20-45mL/kg/day**
-![[Pasted image 20240917192556.png|550]]
+![[Pasted image 20240917192556.png|350]]
 
-## 2. Clinical Approach
+# 2. Clinical Approach
 
-### (1) History taking (문진)
+## (1) History taking (문진)
 
 - **presenting complaint**
 	-  onset : 급성? 점진적?
@@ -77,7 +77,7 @@ tags:
 	- NSAIDs : 항생제 복용 경험
 - **스트레스성 events** : 고양이는 특히 스트레스에 취약
 
-### (2) Clinical signs (임상 증상)
+## (2) Clinical signs (임상 증상)
 
 임상 증상만으로 감별 진단은 어려운 편.
 
@@ -108,10 +108,9 @@ tags:
 >	- 정상 고양이 : 45ml/kg/day
 >	- 다음(**Polydipsia**) : <u>100ml/kg/day 이상</u>
 
-### (3) Physical examination (신체 검사)
+## (3) Physical examination (신체 검사)
 
 Complete physical examination
-
 ![[Pasted image 20240917201130.png|550]]
 
 | 항목                             | 내용                                                       |
@@ -130,35 +129,95 @@ Complete physical examination
 intraluminal = within a lumen (내강)
 intramural = 벽내..인듯?
 
-### (4) Diagnostic tests (신장 기능 검사) 
+## (4) Diagnostic tests (신장 기능 검사) 
 
-여기부터가 본론입니다.. 나머지 2/3가 여기 
+<font color="#7f7f7f">여기부터가 본론입니다.. 나머지 2/3가 여기 </font>
 
-#### 🟠 사구체 기능 평가 (Assessment of Glomerular function)
+### 🟠 사구체 기능 평가 (Assessment of Glomerular function)
 
-##### 🔺 Glomerular filtration rate (GFR, 사구체 여과율)
+#### 🔺 Glomerular filtration rate (GFR, 사구체 여과율)
 
 ![[GFR (Glomerular filtration rate)|GFR (Glomerular filtration rate)]]
 
-##### 🔺 Blood urea nitrogen (BUN)
+>[!note] Azotemia (질소 혈증)
+![[Azotemia|Azotemia]]
+
+#### 🔺 Blood urea nitrogen (BUN)
 
 ![[Blood urea nitrogen (BUN)|Blood urea nitrogen (BUN)]]
 
-##### 🔺 Serum creatinine (SCr)
+#### 🔺 Serum creatinine (SCr)
 ![[Serum creatinine (SCr)|Serum creatinine (SCr)]]
 
----
+#### ❓ BUN과 SCr의 relationship
 
-![[BUN과 SCr의 relationship|BUN과 SCr의 relationship]]
 
-##### 🔺 Symmetric dimethylarginine (SDMA)
+**GFR에 따른 BUN 수치**
+
+![[Pasted image 20240918010751.png|400]]
+
+- 신장이 심하게 손상되었을수록(GFR 수치가 낮을수록) BUN 수치 변화의 폭이 크다.
+- GFR이 충분히 정상일 때는 BUN 수치 변화 폭이 작다.
+
+
+**creatinine에 따른 GFR 수치**
+
+![[Pasted image 20240918010827.png|400]]
+
+- GFP 수치가 낮을수로(신장 손상이 심할수록) creatinine의 농도 변화폭이 크다.
+
+
+**BUN/SCr ratio**
+- 민감도를 높이기 위해 비율 단위를 이용할 수는 있으나,
+- 식이나 근육량에 따라 각각의 값이 달라지므로 임상적 효용 가치는 떨어지는 편.
+- Reference range : 개와 고양이에서 7-37
+![[Pasted image 20240918011043.png|400]]
+(pre-renal과 post-renal 감별 가능)
+
+#### 🔺 Symmetric dimethylarginine (SDMA)
 
 ![[Symmetric dimethylarginine (SDMA)|Symmetric dimethylarginine (SDMA)]]
 
+#### ❓ SCr & SDMA 수치 진단
+
+>[!quote] 복습!
+> - SCr(serum creatinine) : SCr이 높다=GFR이 낮다=사구체 여과율 감소 상태 (반드시X), 근육 영향 ↑ (근육 많으면 높게 나옴)
+> - SDMA : 여과되어야 하는 부산물. 혈청 농도 높으면 문제. 초기에도 빠르게 상승하여 유용한 수치.
+
+Pre-renal, post-renal factor가 rule-out된 이후
+
+1) **SCr 정상**(WNR; within normal range) + **SDMA 상승**
+	- 초기 신부전 의심
+	- 근육이 많이 소모된 환자에서 SC 낮게 나왔을 가능성
+	- 비신장질환(lymphoma), psychogenic polydipsia
+2) **SCr 상승** + **SDMA 정상**
+	- 근육이 많은 개체
+	- 심한 용혈이 있나?
+3) **SCr 정상** + **SDMA 정상**
+	- 신장 기능 장애일 가능성 적음
+
+#### 🔺 Evaluation of proteinuria (단백뇨)
+
+![[Proteinuria (단백뇨)|Proteinuria (단백뇨)]]
 
 
-##### 🔺 Evaluation of proteinuria (단백뇨)
+### 🟠 세뇨관 기능 평가 (Assessment of Tubular function)
 
-#### 세뇨관 기능 평가 (Assessment of Tubular function)
+- 세뇨관 주요 역할 : 1차 여과액에서 필요한 물질 **재흡수**, 여과하지 못한 불필요 물질 **배설**, **소변 희석/농축**
+- 세뇨관 기능이 저하되면 소변 농축 기능 망가짐
+![[Pasted image 20240918115518.png|350]]
+- 정상적인 소변 농축 기능은 다음에 따라 결정.
+	- 혈장 삼투압의 변화에 반응하는 시상하부의 osmoreceptor 기능
+	- 뇌하수체에서 분비되는 ADH(antidiuretic hormone)
+	- ADH에 대한 distal nephron의 반응
+- 농축 기능은 신체 내 수분과 혈액 농도 유지에 중요.
+	- 수분 섭취는 음수+음식물(소량)에 따라, 배출은 소변(+호흡+대변)으로 이루어짐. 
+	- 즉 소변의 농축 정도가 신체 내 수분 조절 기전의 주요 경
 
-#### Other tests
+#### 🔺 Urine specific gravity and osmolality
+
+#### 🔺 Water deprivation test
+
+#### 🔺 Fractional clearance of electrolytes
+
+### Other tests
