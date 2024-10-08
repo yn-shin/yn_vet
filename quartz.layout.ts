@@ -3,15 +3,34 @@ import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // data-repo
+      repo: 'yn-shin/yn_vet',
+      // data-repo-id
+      repoId: 'R_kgDOMIjAVg',
+      // data-category
+      category: 'Q&A',
+      // data-category-id
+      categoryId: 'DIC_kwDOMIjAVs4CjE5v',
+    }
+  }),
+],
+
   head: Component.Head(),
   header: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
+      
     },
   }),
 }
+
+
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -48,18 +67,3 @@ export const defaultListPageLayout: PageLayout = {
   right: [],
 }
 
-afterBody: [
-  Component.Comments({
-    provider: 'giscus',
-    options: {
-      // data-repo
-      repo: 'yn-shin/yn_vet',
-      // data-repo-id
-      repoId: 'R_kgDOMIjAVg',
-      // data-category
-      category: 'Q&A',
-      // data-category-id
-      categoryId: 'DIC_kwDOMIjAVs4CjE5v',
-    }
-  }),
-],
