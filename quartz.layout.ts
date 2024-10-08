@@ -47,3 +47,19 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // data-repo
+      repo: 'yn-shin/yn_vet',
+      // data-repo-id
+      repoId: 'R_kgDOMIjAVg',
+      // data-category
+      category: 'Q&A',
+      // data-category-id
+      categoryId: 'DIC_kwDOMIjAVs4CjE5v',
+    }
+  }),
+],
