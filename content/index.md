@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/544d344e-4c94-4635-b00b-8ede558407c0)---
 title: yn-vet
 ---
 
@@ -13,6 +13,8 @@ title: yn-vet
 
 🔎 [[06. 본1-2]] / 🔎 [[07. 본2-1]] / 🔎 [[08. 본2-2]]
 
+
+npx quartz update
 ---
 
 #### 이용 참고
