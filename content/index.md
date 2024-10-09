@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/544d344e-4c94-4635-b00b-8ede558407c0)---
 title: yn-vet
 ---
 
