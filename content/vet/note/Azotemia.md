@@ -19,5 +19,5 @@ BOX:
 		- 원인 : 심각한 탈수, shock, 울혈성 심부전(heart failure)
 	- **Primary renal azotemia** : 신장 실질(parenchymal renal)의 손상
 		- 원인 : 신부전, 사구체신염(glomerulonephritis), 급성 세뇨관 괴사(acute tubular necrosis) 등
-	- **Post-renal azotemi** : 소변 배출 경로의 이상
+	- **Post-renal azotemia** : 소변 배출 경로의 이상
 		- 원인 : 결석(stones), 종양(neoplasia), 선천 기능 이상(congenital abnormality), 전립선 비대(prostatic hyperplasia) 등
