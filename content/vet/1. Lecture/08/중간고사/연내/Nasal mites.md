@@ -15,8 +15,8 @@ share: "true"
 - 비강 이물에 의한 증상과 유사함.
 - 진단 : Rhinoscopy, retrograde nasal flushing - 내시경을 넣고 뒤로 180도 꺾어서 검사.
 - 치료
-- **Milbemycin oxime** (0.5-1 mg/kg, orally, 7-10일마다) → **넥스가드**
-- **Selemectin** (6-24mg/kg, topically over shoulders, every 2 weeks) → **셀레멕틴**
+	- **Milbemycin oxime** (0.5-1 mg/kg, orally, 7-10일마다) → **넥스가드**
+	- **Selemectin** (6-24mg/kg, topically over shoulders, every 2 weeks) → **셀레멕틴**
 
 #### Nasal Capillariasis
 
