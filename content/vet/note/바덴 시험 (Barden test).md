@@ -17,4 +17,3 @@ tags:
 ---
 
 - 큰 결절이 5-6cm 이상 딸려 올라오면 바덴 시험 양성
-- ![[corgi-happy.gif|corgi-happy.gif]]
