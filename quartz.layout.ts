@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
+   text: "그 중의 제일은 사랑이라 (고전 13:13)"
   }),
 }
 
