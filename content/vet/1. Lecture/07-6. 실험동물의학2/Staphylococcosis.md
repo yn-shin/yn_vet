@@ -11,7 +11,7 @@ host: M, R
 순서: 11
 ---
 >[!tldr]- 관련 문서
->[전염병학1] [[../../../../Ch.14 Staphylococcus(포도상구균)|Staphylococcus]]
+>[전염병학1] [[Ch.14 Staphylococcus(포도상구균)|Staphylococcus]]
 
 - *Staphylococcus aureus*
 - 운동성 없음, gram (+)
@@ -34,4 +34,4 @@ host: M, R
 - deep infection : 화농성육아종
 ### Diagnosis
 - 배지 : Vogel-Johnson Agar, coagulase 양성
-- #화농성 : [[./Pasteurellosis|Pasteurellosis]], [[./Streptococcosis|Streptococcosis]], [[./Corynebacteriosis|Corynebacteriosis]], [[./Pseudomoniasis|Pseudomoniasis]], 외부 기생충, fight wound, self-mutation emd
+- #화농성 : [[Pasteurellosis|Pasteurellosis]], [[Streptococcosis|Streptococcosis]], [[Corynebacteriosis|Corynebacteriosis]], [[Pseudomoniasis|Pseudomoniasis]], 외부 기생충, fight wound, self-mutation emd
