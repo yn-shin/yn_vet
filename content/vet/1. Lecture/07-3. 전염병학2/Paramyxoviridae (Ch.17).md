@@ -27,17 +27,17 @@ share: "true"
 >	- 동물에서 사람으로 전파되는 원인 : 박쥐
 
 
-![[./17. Paramyxoviridae|17. Paramyxoviridae]]
+![[17. Paramyxoviridae|17. Paramyxoviridae]]
 
 ---
 
-![[./17.1 Rinderpest virus|17.1 Rinderpest virus]]
+![[17.1 Rinderpest virus|17.1 Rinderpest virus]]
 
 ---
 
-![[./17.2 Canine distemper|17.2 Canine distemper]]
+![[17.2 Canine distemper|17.2 Canine distemper]]
 
 ---
 
-![[./17.3 Hendra & Nipha virus|17.3 Hendra & Nipha virus]]
+![[17.3 Hendra & Nipha virus|17.3 Hendra & Nipha virus]]
 

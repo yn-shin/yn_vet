@@ -17,8 +17,8 @@ share: "true"
 실험동물: 격리 후 실험 진행
 ---
 >[!tldr]- 관련 문서
->[전염병학] [[../../../../Parvoviridae (Ch.12)|Parvoviridae (Ch.12)]] : 크기가 작은 ssDNA
-### Eti[](../../../../Parvoviridae%2520(Ch.12).md#)iridae*
+>[전염병학] [[Parvoviridae (Ch.12)|Parvoviridae (Ch.12)]] : 크기가 작은 ssDNA
+### Eti[](Parvoviridae%20(Ch.12).md)iridae*
 > 	- genus *Parvovirus*
 
 - ssDNA, nonenveloped, small, 15-28nm.

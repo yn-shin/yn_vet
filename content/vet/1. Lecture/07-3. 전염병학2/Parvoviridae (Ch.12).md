@@ -14,10 +14,10 @@ share_updated: 2024-04-24T16:50:01+09:00
 구분: 중간12
 ---
 
-![[../../../../12. Parvoviridae|12. Parvoviridae]]
+![[12. Parvoviridae|12. Parvoviridae]]
 
-![[../../../../12a. Feline panleukopenia virus|12a. Feline panleukopenia virus]]
+![[12a. Feline panleukopenia virus|12a. Feline panleukopenia virus]]
 
-![[../../../../12b. Canine parvovirus 2|12b. Canine parvovirus 2]]
+![[12b. Canine parvovirus 2|12b. Canine parvovirus 2]]
 
-![[../../../../12c. Porcine parvovirus 2|12c. Porcine parvovirus 2]]
+![[12c. Porcine parvovirus 2|12c. Porcine parvovirus 2]]

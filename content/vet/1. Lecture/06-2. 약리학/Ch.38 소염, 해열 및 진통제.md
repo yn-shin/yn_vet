@@ -4,14 +4,14 @@ share: "true"
 - 염증은 외상, 유해물질, 미생물학적 약제에 의해 야기되는 조직손상에 대한 정상적인 보호반응이다.
 - 그러나 면역 체계가 부적절하게 활성화되면 면역매개질환을 일으키는 염증이 나타날 수 있다.
 - 이러한 염증의 진행을 조절하고 감소시킬 목적으로 소염제가 이용된다.
-- 대표적으로 [[../../../../NSAIDs|NSAIDs]](비스테로이드소염제)가 있고, 그 외에 아세트아미노펜 등이 있다.
+- 대표적으로 [[NSAIDs|NSAIDs]](비스테로이드소염제)가 있고, 그 외에 아세트아미노펜 등이 있다.
 
 # Prostaglandin
 
 - 모든 NSAIDs는 prostaglandin의 합성을 억제함으로써 작용한다. 
 - prostaglandin은 세포막의 G-결합단백질 수용체에 결합하여 작용을 유발한다.
 
-# [[../../../../NSAIDs|NSAIDs]] (Nonsteroidal Anti-inflammatory Drugs)
+# [[NSAIDs|NSAIDs]] (Nonsteroidal Anti-inflammatory Drugs)
 
 ## 개요
 
@@ -25,14 +25,14 @@ share: "true"
 
 ## 아스피린의 특징
 
-- [[../../../../aspirin|aspirin]]은 전통적인 NSAID지만, 고용량에서만 소염작용을 나타내 잘 사용하지 않는다.
+- [[aspirin|aspirin]]은 전통적인 NSAID지만, 고용량에서만 소염작용을 나타내 잘 사용하지 않는다.
 - 심혈관사고 예방 목적으로 저용량에서 훨씬 자주 사용된다.
-- [[../../../../COX|COX]] 활성의 비가역적 억제제라는 점에서 다른 NSAIDs와 구별된다.
-- [[../../../../COX|COX]] : Cyclooxygenase
+- [[COX|COX]] 활성의 비가역적 억제제라는 점에서 다른 NSAIDs와 구별된다.
+- [[COX|COX]] : Cyclooxygenase
 
 ## 작용기전
 
-- [[../../../../aspirin|aspirin]]을 제외한 모든 [[../../../../NSAIDs|NSAIDs]]는 [[../../../../COX|COX]]의 가역적 억제제이다.
+- [[aspirin|aspirin]]을 제외한 모든 [[NSAIDs|NSAIDs]]는 [[COX|COX]]의 가역적 억제제이다.
 - 소염작용 : COX 활성을 억제함으로써 prostaglandin 생성을 감소시켜 소염작용을 한다.
 - 진통작용 : 염증과정에서 국소적으로 유리되는 화학적 매개인자들의 작용에 대해 신경말단이 감작되게 한다.
 - 해열작용 : PGE2의 합성에 의해 체온 조절 중추의 set point가 상승하여 발열이 나타나는데, 이 PGE2의 합성과 유리를 방해하여 체온을 낮춘다.

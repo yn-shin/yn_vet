@@ -15,7 +15,7 @@ Zoonoses: Zoonoses
 ---
 >[!tldr]- 관련 문서
 >[공중보건학]
->[[../../../../05. Bunyaviridae|05. Bunyaviridae]]
+>[[05. Bunyaviridae|05. Bunyaviridae]]
 
 
 한탄강 유래의 zoonosis.

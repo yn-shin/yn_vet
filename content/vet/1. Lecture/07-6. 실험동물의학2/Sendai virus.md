@@ -16,7 +16,7 @@ share: "true"
 실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
-> [전염병학] [[../07-3. 전염병학2/17. Paramyxoviridae|17. Paramyxoviridae]] - syncytium을 형성
+> [전염병학] [[17. Paramyxoviridae|17. Paramyxoviridae]] - syncytium을 형성
 
 ### Etiology
 > - family *Paramyxoviridae*
@@ -46,8 +46,8 @@ share: "true"
 - 감수성 있는 마우스에서 기관지 폐렴, 간질성 폐렴 (감수성 낮으면 기관지폐렴만)
 - multinucleated syncytium이 때때로 SCID mouse에서 관찰
 ### Differential diagnosis
-- #폐렴 : [[./Pneumonia virus of mice (PVM)|PVM]], mycoplasmosis
+- #폐렴 : [[Pneumonia virus of mice (PVM)|PVM]], mycoplasmosis
 - #폐사 
 
-![[../../../Settings/Attached files/Pasted image 20240619165611.png|400]]![[../../../Settings/Attached files/Pasted image 20240619165638.png|310]]
+![[Pasted image 20240619165611.png|400]]![[Pasted image 20240619165638.png|310]]
 

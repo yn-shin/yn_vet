@@ -14,6 +14,6 @@ share_updated: 2024-04-24T16:45:25+09:00
 구분: 중간08
 ---
 
-![[../../../../08. Asfarviridae|08. Asfarviridae]]
+![[08. Asfarviridae|08. Asfarviridae]]
 
-![[../../../../08a. African swine fever virus|African swine fever virus]]
+![[08a. African swine fever virus|African swine fever virus]]

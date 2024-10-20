@@ -11,13 +11,13 @@ site: 세포질
 구분: 기말24
 share: "true"
 ---
-![[./24. Coronaviridae|24. Coronaviridae]]
+![[24. Coronaviridae|24. Coronaviridae]]
 
-![[./24.1 Transmissible Gastroenteritis Virus (TGE)|24.1 Transmissible Gastroenteritis Virus (TGE)]]
-
-
-![[./24.2 Porcine Respiratory Coronavirus (PRCV)|24.2 Porcine Respiratory Coronavirus (PRCV)]]
+![[24.1 Transmissible Gastroenteritis Virus (TGE)|24.1 Transmissible Gastroenteritis Virus (TGE)]]
 
 
-![[./24.4 Feline Enteric coronavirus & Feline Infectious Peritonitis virus|24.4 Feline Enteric coronavirus & Feline Infectious Peritonitis virus]]
+![[24.2 Porcine Respiratory Coronavirus (PRCV)|24.2 Porcine Respiratory Coronavirus (PRCV)]]
+
+
+![[24.4 Feline Enteric coronavirus & Feline Infectious Peritonitis virus|24.4 Feline Enteric coronavirus & Feline Infectious Peritonitis virus]]
 

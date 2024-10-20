@@ -35,4 +35,4 @@ host: M, R, H, GP, rb
 - mesenteric lymph node : **gray-white spot**
 
 ### Differential diagnosis
-- #폐사, #설사 : [[./Ectromelia virus (Mousepox)|Mousepox]], [[../../../../Helicobacteriosis|Helicobacteriosis]], [[./Salmonellosis|Salmonellosis]], [[./Reovirus 3|Reovirus 3]] 등
+- #폐사, #설사 : [[Ectromelia virus (Mousepox)|Mousepox]], [[Helicobacteriosis|Helicobacteriosis]], [[Salmonellosis|Salmonellosis]], [[Reovirus 3|Reovirus 3]] 등

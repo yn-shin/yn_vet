@@ -14,6 +14,6 @@ share_updated: 2024-04-24T16:40:54+09:00
 구분: 중간13
 ---
 
-![[../../../../13. Circoviridae|13. Circoviridae]]
+![[13. Circoviridae|13. Circoviridae]]
 
-![[../../../../13a. Porcine Circovirus|13a. Porcine Circovirus]]
+![[13a. Porcine Circovirus|13a. Porcine Circovirus]]

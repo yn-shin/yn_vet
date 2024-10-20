@@ -32,5 +32,5 @@ host: M, R, H
 - C. bovis : acanthosis(가시세포증), hyperkeratosis
 ### Diagnosis
 - Blood agar
-- #건락성괴사 : [[./Streptococcosis|Streptococcosis]], [[./Mycoplasmosis|Mycoplasmosis]], 다른 농양 등
+- #건락성괴사 : [[Streptococcosis|Streptococcosis]], [[Mycoplasmosis|Mycoplasmosis]], 다른 농양 등
 - #화농성 감별진단

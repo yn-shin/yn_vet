@@ -18,8 +18,8 @@ share: "true"
 ---
 
 >[!tldr]- 관련 문서
->[전염병학] [[../../../../Herpesviridae (Ch.9)|Herpesviridae (Ch.9)]]
-### Eti[](../../../../Herpesviridae%2520(Ch.9).md#)viridae*
+>[전염병학] [[Herpesviridae (Ch.9)|Herpesviridae (Ch.9)]]
+### Eti[](Herpesviridae%20(Ch.9).md)viridae*
 > 	- subfamily *Betaherpesvirinae*
 > 		- genus *Muromegalovirus*
 > 			- *Murid herpesvirus 3*
@@ -33,4 +33,4 @@ share: "true"
 	 - 핵내 봉입체, 육아종성(granulomatous) 염증, syncytium
 	 - 림프절 괴사와 염증
 ### Differential diagnosis
-- #흉선위축 : [[./Mouse hepatitis virus (MHV)|심각한 MHV 감염]]
+- #흉선위축 : [[Mouse hepatitis virus (MHV)|심각한 MHV 감염]]

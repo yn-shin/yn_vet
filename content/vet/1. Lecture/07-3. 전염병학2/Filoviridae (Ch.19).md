@@ -17,6 +17,6 @@ share: "true"
 >- 원숭이(African grenen monkeys)를 연구하던 연구원들 사이에서 출혈열이 발생하며 최초로 분리됨.
 >- 감염 개체에 사용한 주사 바늘 등을 통한 의료 관련 종사자의 감염이 높음.
 
-![[./19. Filoviridae|19. Filoviridae]]
+![[19. Filoviridae|19. Filoviridae]]
 
-![[./19.1 Marburg & Ebola Hemorrhagic fever virus|19.1 Marburg & Ebola Hemorrhagic fever virus]]
+![[19.1 Marburg & Ebola Hemorrhagic fever virus|19.1 Marburg & Ebola Hemorrhagic fever virus]]

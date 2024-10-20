@@ -37,4 +37,4 @@ share: "true"
 - 면역 정상 마우스 
   : 장에서 약한 염증, 비장 비대, 비장과 림프절의 lymphoid hyperplasia^[비장의 white pulp, lymphoid cell이 증식하여 비대해짐]
 ### Differential diagnosis
-- #약한설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus]], [[../../../../Helicobacteriosis|Helicobacteriosis]], [[../../../../Citrobacter rodentium infection|Citrobacter rodentium infection]] 등
+- #약한설사 : [[Mouse hepatitis virus (MHV)|MHV]], [[Mouse rotavirus or EDIM|Mouse rotavirus]], [[Helicobacteriosis|Helicobacteriosis]], [[Citrobacter rodentium infection|Citrobacter rodentium infection]] 등

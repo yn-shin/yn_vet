@@ -14,6 +14,6 @@ share_updated: 2024-04-25T08:08:20+09:00
 구분: 중간11
 ---
 
-![[../../../../11. Papillomaviridae|11. Papillomaviridae]]
+![[11. Papillomaviridae|11. Papillomaviridae]]
 
-![[../../../../11a. Bovine Papillomavirus|11a. Bovine Papillomavirus]]
+![[11a. Bovine Papillomavirus|11a. Bovine Papillomavirus]]

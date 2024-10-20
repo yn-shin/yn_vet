@@ -17,7 +17,7 @@ share: "true"
 실험동물: 격리 후 안락사
 ---
 >[!tldr]- 관련 문서
-> [전염병학] [[../07-3. 전염병학2/Coronaviridae (Ch.24)|Coronaviridae (Ch.24)]]
+> [전염병학] [[Coronaviridae (Ch.24)|Coronaviridae (Ch.24)]]
 ### Etiology
 > - family *Coronaviridae*
 > 	- genus *Betacoronavirus*
@@ -49,8 +49,8 @@ share: "true"
 - syncytium 확인
 - neutralization test : strain 감별
 ### Differential diagnosis
-- #설사, suckling mouth의 runting&death, wasting disease : [[./Ectromelia virus (Mousepox)|Mousepox]], [[./Mouse rotavirus or EDIM|Mouse rotavirus]], [[./Reovirus 3|Reovirus 3]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Salmonellosis|Salmonellosis]]
-- #신경증상 : [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]] 등
+- #설사, suckling mouth의 runting&death, wasting disease : [[Ectromelia virus (Mousepox)|Mousepox]], [[Mouse rotavirus or EDIM|Mouse rotavirus]], [[Reovirus 3|Reovirus 3]], [[Tyzzer's disease|Tyzzer's disease]], [[Salmonellosis|Salmonellosis]]
+- #신경증상 : [[Theiler's murine encephalomyelitis virus (TMEV)|TMEV]] 등
 - #흉선위축 
 - #폐사
 ### Prevention, Control

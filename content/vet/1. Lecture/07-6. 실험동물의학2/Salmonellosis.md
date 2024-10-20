@@ -38,4 +38,4 @@ Zoonoses: Zoonoses
 | Guinea pig | Hepatomegaly, splenomegaly, 내장 장기의 small yellow necrotic foci                                                                                                                                                                                                                                                      |
 ### Diagnosis
 - SS agar 사용
-- #간염, #장염 : [[./Tyzzer's disease|Tyzzer's disease]], [[../../../../Helicobacteriosis|Helicobacteriosis]], [[../../../../Corynebacteriosis|Corynebacteriosis]]. [[./Citrobacter rodentium infection|Citrobacter rodentium infection]], [[../../../../Pasteurellosis|Pasteurellosis]], [[./Rat coronavirus|Rat coronavirus]], [[./Ectromelia virus (Mousepox)|Ectromelia]], [[./Reovirus 3|Reovirus 3]] 등
+- #간염, #장염 : [[Tyzzer's disease|Tyzzer's disease]], [[Helicobacteriosis|Helicobacteriosis]], [[Corynebacteriosis|Corynebacteriosis]]. [[Citrobacter rodentium infection|Citrobacter rodentium infection]], [[Pasteurellosis|Pasteurellosis]], [[Rat coronavirus|Rat coronavirus]], [[Ectromelia virus (Mousepox)|Ectromelia]], [[Reovirus 3|Reovirus 3]] 등

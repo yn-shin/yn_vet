@@ -20,7 +20,7 @@ share: "true"
 - minocycline 유도체인 **tigecycline** 이 해당한다.
 - tetracyclines 저항균주에 사용하기 위해 개발되었다.
 - 리보솜 30S subunit에 가역적으로 결합하여 단백질 합성을 억제하는 정균제이다.
-- 광범위한 항균범위 활성을 가지며, MRSA, [[../../../../VRE|VRE]]를 비롯해 다양한 내성균주를 포함한다.
+- 광범위한 항균범위 활성을 가지며, MRSA, [[VRE|VRE]]를 비롯해 다양한 내성균주를 포함한다.
 - 구역, 구토, 급성 췌장염 등과 함께 tetracycline 유사 부작용을 가진다.
 
 ## Aminoglycosides : 30S에 작용

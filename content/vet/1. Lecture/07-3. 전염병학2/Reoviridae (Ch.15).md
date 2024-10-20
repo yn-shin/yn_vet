@@ -31,16 +31,16 @@ share: "true"
 >		- 바이러스 NSP4 단백질의 enterotoxin 작용과, 바이러스로 유도되는 신경전달물질의 작용으로 장 상피의 분비 pathway가 활성화된다.
 >		- 전해질이 장관 내로 분비되어 설사 증상이 더 심하게 유발된다(secretory diarrhea)
 
-![[./15. Reoviridae|15. Reoviridae]]
+![[15. Reoviridae|15. Reoviridae]]
 
 ---
 
-![[./15.1 Bluetongue virus|15.1 Bluetongue virus]]
+![[15.1 Bluetongue virus|15.1 Bluetongue virus]]
 
 ---
 
-![[./15.2 African horse sickness virus|15.2 African horse sickness virus]]
+![[15.2 African horse sickness virus|15.2 African horse sickness virus]]
 
 ---
 
-![[./15.3 Rotavirus infection|15.3 Rotavirus infection]]
+![[15.3 Rotavirus infection|15.3 Rotavirus infection]]
