@@ -16,7 +16,7 @@ share: "true"
 모체: 격리 후 안락사
 실험동물: 격리 후 실험 진행
 ---
-- Theilovirus - 마우스 : [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]], 랫드 : RTV
+- Theilovirus - 마우스 : [[Theiler's murine encephalomyelitis virus (TMEV)|TMEV]], 랫드 : RTV
 ### Etiology
 > - family *Picornaviridae*
 > 	- genus *Cardiovirus*
