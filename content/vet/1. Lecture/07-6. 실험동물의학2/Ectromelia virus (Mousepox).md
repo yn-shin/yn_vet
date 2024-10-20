@@ -18,8 +18,8 @@ share: "true"
 ---
 >[!tldr]- 관련 문서
 >[전염병학] 
->[[../../../../Poxviridae (Ch.7)|Poxviridae (Ch.7)]] - [[../../../../07a. genus Orthopoxvirus|07a. genus Orthopoxvirus]]
->[](../../../../Poxviridae%2520(Ch.7).md#)iri[](../../../../07a.%2520genus%2520Orthopoxvirus.md#)irus.md)ola virus*(smallpox, nonzoonotic)와 가장 유사.
+>[[Poxviridae (Ch.7)|Poxviridae (Ch.7)]] - [[07a. genus Orthopoxvirus|07a. genus Orthopoxvirus]]
+>[](Poxviridae%20(Ch.7).md)iri[](07a.%20genus%20Orthopoxvirus.md)irus.md)ola virus*(smallpox, nonzoonotic)와 가장 유사.
 
 ### Etiology
 > - family *Poxviridae*
@@ -51,7 +51,7 @@ share: "true"
 	- <span style="background:#e0e5fc">A-type 봉입체</span>(Marchal body) : 세포질내, eosinophilic(붉은색), 세포질내, 일반 염색, dermarcated(경계가 명확)
 	- <span style="background:#e0e5fc">B-type 봉입체</span> : 세포질내, basophilic, 강한 hematoxylin이나 IHC로 관찰 가능. (일반 염색으로는 불가!)
 
-![[../../../Settings/Attached files/Pasted image 20240501163752.png|150]]
+![[Pasted image 20240501163752.png|150]]
 - primary viremia : 피부를 통해 감염 → 국소 Lymph node에서 증식
 - 3,4일 내에 비장과 간으로 이동하여 괴사를 일으켜 폐사.
 - 초기 발진(papule)이 궤양이 되고, 딱지가 형성되고, 떨어져 나가 scar 형태로 나타남.
@@ -70,5 +70,5 @@ share: "true"
 - 혈청 검사는 ELISA, IFA, MFIA
 
 #### 감별 진단
-- #폐사 : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Sendai virus|Sendai virus]] 등
+- #폐사 : [[Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[Tyzzer's disease|Tyzzer's disease]], [[Sendai virus|Sendai virus]] 등
 - skin lesion : [[acariasis|acariasis]], bite wound, bacteria 등
