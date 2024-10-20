@@ -11,4 +11,4 @@ site: 세포질
 구분: 기말27
 share: "true"
 ---
-![[./27. Caliciviridae|27. Caliciviridae]]
+![[27. Caliciviridae|27. Caliciviridae]]
