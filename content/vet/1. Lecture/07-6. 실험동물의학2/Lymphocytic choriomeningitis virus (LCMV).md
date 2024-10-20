@@ -16,7 +16,7 @@ share: "true"
 
 >[!tldr]- 관련 문서
 >[공중보건학]
->[[../../../../Lymphocytic Choriomeningitis (LCM)|Lymphocytic Choriomeningitis (LCM)]] : 공보에서 배웠으나 정리 못함..
+>[[Lymphocytic Choriomeningitis (LCM)|Lymphocytic Choriomeningitis (LCM)]] : 공보에서 배웠으나 정리 못함..
 ### Etiology
 > - family *Arenaviridae*
 > 	- genus *Arenavirus*
@@ -58,4 +58,4 @@ share: "true"
 - (조직병리) 대뇌에서 비화농성 뇌염 관찰
 
 ### Differential diagnosis
-- #신경증상 : [[./Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[./Theiler's murine encephalomyelitis virus (TMEV)|TMEV]], 세균 감염에 의한 meningoencephalitis 등
+- #신경증상 : [[Mouse hepatitis virus (MHV)|Mouse hepatitis virus (MHV)]], [[Theiler's murine encephalomyelitis virus (TMEV)|TMEV]], 세균 감염에 의한 meningoencephalitis 등
