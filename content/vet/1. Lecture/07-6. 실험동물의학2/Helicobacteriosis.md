@@ -51,6 +51,6 @@ Zoonoses: "*H. pullorum* zoonotic"
 ### Diagnosis & Treatment
 - 혈청 진단은 사용하지 않음
 - 균 분리 어려움
-- #간염 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Salmonellosis|Salmonellosis]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Ectromelia virus (Mousepox)|Mousepox]]
-- #대장염 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Salmonellosis|Salmonellosis]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Citrobacter rodentium infection|Citrobacter rodentium infection]]
+- #간염 : [[Mouse hepatitis virus (MHV)|MHV]], [[Salmonellosis|Salmonellosis]], [[Tyzzer's disease|Tyzzer's disease]], [[Ectromelia virus (Mousepox)|Mousepox]]
+- #대장염 : [[Mouse hepatitis virus (MHV)|MHV]], [[Salmonellosis|Salmonellosis]], [[Tyzzer's disease|Tyzzer's disease]], [[Citrobacter rodentium infection|Citrobacter rodentium infection]]
 - amoxicillin, metronidazole 위내투여
