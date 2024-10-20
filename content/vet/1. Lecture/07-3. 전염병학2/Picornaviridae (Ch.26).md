@@ -11,4 +11,4 @@ site: 세포질
 구분: 기말26
 share: "true"
 ---
-![[./26. Picornaviridae|26. Picornaviridae]]
+![[26. Picornaviridae|26. Picornaviridae]]
