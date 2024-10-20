@@ -11,4 +11,4 @@ site: 세포질
 구분: 기말30
 share: "true"
 ---
-![[./30. Flaviviridae|30. Flaviviridae]]
+![[30. Flaviviridae|30. Flaviviridae]]
