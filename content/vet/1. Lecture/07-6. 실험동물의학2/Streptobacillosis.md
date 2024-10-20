@@ -35,4 +35,4 @@ Zoonoses: Zoonoses (야생 설치류)
 
 ### Diagnosis
 - 균 분리 : Blood agar
-- #패혈증 : [[./Ectromelia virus (Mousepox)|Mousepox]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Corynebacteriosis|Corynebacteriosis]], [[./Salmonellosis|Salmonellosis]], [[./Mycoplasmosis|Mycoplasmosis]], [[./Pseudomoniasis|Pseudomoniasis]], 창상성 병변 등
+- #패혈증 : [[Ectromelia virus (Mousepox)|Mousepox]], [[Tyzzer's disease|Tyzzer's disease]], [[Corynebacteriosis|Corynebacteriosis]], [[Salmonellosis|Salmonellosis]], [[Mycoplasmosis|Mycoplasmosis]], [[Pseudomoniasis|Pseudomoniasis]], 창상성 병변 등
