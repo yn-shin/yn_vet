@@ -14,7 +14,7 @@ share: "true"
 실험동물: 격리 후 안락사 (중요 실험은 격리 후 진행)
 ---
 >[!tldr]- 관련 문서
->[전염병학] [[../07-3. 전염병학2/24. Coronaviridae|24. Coronaviridae]] (+)ssRNA 중 매우 큰 편.
+>[전염병학] [[24. Coronaviridae|24. Coronaviridae]] (+)ssRNA 중 매우 큰 편.
 
 
 ### Etiology
