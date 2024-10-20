@@ -27,13 +27,13 @@ host: M, R, rb
 - aerosol 전염 X, 썼던 베딩으로 sentinel mouse에 전파 X
 
 ### Pathology
-- mouse : mild, respiratory [[./Mycoplasmosis|Mycoplasmosis]]와 비슷
+- mouse : mild, respiratory [[Mycoplasmosis|Mycoplasmosis]]와 비슷
 	- 림프구와 형질세포가 기관지 주위에 침윤 (유사점)
 - rat 
-	- [[./Mycoplasmosis|M. pulmonis]]와 혼합 감염되어 화농성 기관지폐렴
+	- [[Mycoplasmosis|M. pulmonis]]와 혼합 감염되어 화농성 기관지폐렴
 	- 과형성(hyperplastic) mononuclear cell cuffs - 기관지/세기관지 주위
 
 ### Diagnosis
 - 혈청학적 검사 가능
 - Warthin-Starry stain, methenamine silver stain으로 상피세포의 cilia에서 관찰 가능
-- mouse는 [[./Mycoplasmosis|Mycoplasmosis]], rat는 [[./Mycoplasmosis|Mycoplasmosis]], [[../../../../Corynebacteriosis|Corynebacteriosis]] 등과 감별진단
+- mouse는 [[Mycoplasmosis|Mycoplasmosis]], rat는 [[Mycoplasmosis|Mycoplasmosis]], [[Corynebacteriosis|Corynebacteriosis]] 등과 감별진단
