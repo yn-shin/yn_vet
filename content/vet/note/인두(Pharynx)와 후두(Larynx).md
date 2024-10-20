@@ -14,8 +14,8 @@ BOX:
 
 ![[Pasted image 20241020105134.png|300]]
 
-- Pharynx (인두) : 호흡계와 소화계의 공통적인 통로
-- Larynx (후두) : 기관 바로 앞의 공간, 발성의 기능을 함.
+- Pharynx (인두) : 호흡계와 소화계의 공통적인 통로 (공기, 음식)
+- Larynx (후두) : 기관 바로 앞의 공간, 발성의 기능을 함. / 기관 내로 이물 들어가지 않도록 보호
 - Nasopharynx : 코인두
 - Oropharynx : 입인두
 - Laryngopharynx : 인두후두부분
