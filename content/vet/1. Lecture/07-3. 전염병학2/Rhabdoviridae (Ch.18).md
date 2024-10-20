@@ -11,6 +11,6 @@ site: 세포질
 구분: 기말18
 share: "true"
 ---
-![[./18. Rhabdoviridae|18. Rhabdoviridae]]
+![[18. Rhabdoviridae|18. Rhabdoviridae]]
 
-![[./18.1 Rabies|18.1 Rabies]]
+![[18.1 Rabies|18.1 Rabies]]
