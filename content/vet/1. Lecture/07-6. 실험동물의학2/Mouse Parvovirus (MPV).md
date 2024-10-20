@@ -29,4 +29,4 @@ share: "true"
 - 조직병리학적 소견 없음
 - 장점막에서 복제된 후, lung, kidney, liver, 림프 장기로 이동
 - lymphocytotropism : lymphocyte 감염. 급성 감염 동안 바이러스가 lymph node에 퍼져 있다가, 지속감염되면 germinal center로 이동\
-![[../../../Settings/Attached files/Pasted image 20240619174232.png|150]] (소장의 villi. 검정 particle이 virus particle)
+![[Pasted image 20240619174232.png|150]] (소장의 villi. 검정 particle이 virus particle)
