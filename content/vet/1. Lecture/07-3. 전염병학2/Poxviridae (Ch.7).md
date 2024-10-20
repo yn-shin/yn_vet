@@ -14,16 +14,16 @@ share_updated: 2024-04-24T18:08:56+09:00
 구분: 중간07
 ---
 
-![[../../../../07. Poxviridae|07. Poxviridae]]
+![[07. Poxviridae|07. Poxviridae]]
 
 
-![[../../../../07a. genus Orthopoxvirus|07a. genus Orthopoxvirus]]
+![[07a. genus Orthopoxvirus|07a. genus Orthopoxvirus]]
 
-![[../../../../07b. genus Capripoxvirus|07b. genus Capripoxvirus]]
+![[07b. genus Capripoxvirus|07b. genus Capripoxvirus]]
 
 # 🧬genus Suipoxvirus
 
-![[../../../Settings/Attached files/Pasted image 20240415163623.png|350]]
+![[Pasted image 20240415163623.png|350]]
 
 |       Species        | 특징                                                                                                                                                                                                                                              |
 | :------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
