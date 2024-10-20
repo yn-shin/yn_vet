@@ -19,7 +19,7 @@ host: M
 - 감수성 : C3H/HeJ
   저항성 : DBA, NIH Swiss
   C57BL은 생산업체에 따라 차이
-- 사람 [[../../../../EPEC (Enteropathogenic E. coli)|EPEC]], [[../../../../STEC (Shiga toxin-producing E. coli) = EHEC = VTEC|EHEC]] 결장염 모델로도 이용
+- 사람 [[EPEC (Enteropathogenic E. coli)|EPEC]], [[STEC (Shiga toxin-producing E. coli) = EHEC = VTEC|EHEC]] 결장염 모델로도 이용
 
 ### Pathology
 - normal flora 대신 descending colon 점막에 부착
@@ -29,4 +29,4 @@ host: M
 
 ### Diagnosis
 - DHL or MacConkey's agar
-- #설사 : [[./Mouse hepatitis virus (MHV)|MHV]], [[./Mouse rotavirus or EDIM|Mouse rotavirus]], [[./Reovirus 3|Reovirus 3]], [[./Salmonellosis|Salmonellosis]], [[./Tyzzer's disease|Tyzzer's disease]], [[./Helicobacteriosis|Helicobacteriosis]]
+- #설사 : [[Mouse hepatitis virus (MHV)|MHV]], [[Mouse rotavirus or EDIM|Mouse rotavirus]], [[Reovirus 3|Reovirus 3]], [[Salmonellosis|Salmonellosis]], [[Tyzzer's disease|Tyzzer's disease]], [[Helicobacteriosis|Helicobacteriosis]]
