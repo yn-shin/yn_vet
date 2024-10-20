@@ -26,7 +26,7 @@ share: "true"
 		- **ampicillin**, **amoxicillin** 이 있다.
 		- 천연 페니실린이 그람 음성 간균에 효과가 없는 점을 보완하기 위해 개발되었다.
 		- 항균범위가 넓은 광범위 항생제로, 호흡기 감염 치료에 많이 이용한다.
-		- [[../../../../MSSA|MSSA]]^[Methicillin sensitive Staphylococcus aureus]에는 β-lactamase 억제제와 혼합하여 이용한다.
+		- [[MSSA|MSSA]]^[Methicillin sensitive Staphylococcus aureus]에는 β-lactamase 억제제와 혼합하여 이용한다.
 	4) 항포도알균 페니실린류
 		- **methicillin**, **nafcillin**, **oxacillin**, **dicloxacillin**^[뒤 3개는 methicillin 저항성 세균에 대해 개발되었다]등이 있다.
 		- 페니실린 분해효소에 저항성을 가지는 페니실린류다.
@@ -59,7 +59,7 @@ share: "true"
 - 1-5세대로 나뉜다.
 	1) 1세대 : Penicillin G의 대체품이다.
 		- **cefazolin**, **cefadroxil**, **cephalexin** 이 있다.
-		- 포도알균성 penicillinase에 대한 저항을 가져 [[../../../../MSSA|MSSA]]에 효과를 보인다.
+		- 포도알균성 penicillinase에 대한 저항을 가져 [[MSSA|MSSA]]에 효과를 보인다.
 	2) 2세대
 		- **cefotetan**, **cefoxitin**, **cefuoxime** 이 있다.
 		- 그람음성균에 대한 항균범위가 증가했다. (양성균 활성은 감소)
