@@ -8,7 +8,7 @@ share: "true"
 - 형태학적으로는 바이러스로 간주되지만, 세포막/협막 같은 부위가 있어 세균과로 분류됨
 - 비여과성(nonfilterable) 및 비운동성(non-motile)
 - 항생제에 감수성 있음
-	- 질병 초기에 [[../../../../tetracycline|tetracycline]] 및 [[../../../../chloramphenicol|chloramphenicol]] 유효
+	- 질병 초기에 [[tetracycline|tetracycline]] 및 [[chloramphenicol|chloramphenicol]] 유효
 - 열, 건조, 세균소독제에 의해 쉽게 사멸됨
 - cell-free media에서는 자라지 않는 세포 의존성
 - 절족동물(lice, fleas, ticks, mites) 매개 감염
@@ -39,22 +39,22 @@ human to human 불가, 반드시 중간에 vector가 끼어야 함
 
 | 질병                                                                                                     | 원인균                                                                            | 감염양식              | 증상                               |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ----------------- | -------------------------------- |
-| [[./질병/Ⅳ-1. 발진열 (Murine Typhus)\|Ⅳ-1. 발진열 (Murine Typhus)]]             | Rickettsia prowazekii                                                          | \-                | \-                               |
-| [[./질병/Ⅳ-2. 발진티프스 (sporadic typhus)\|Ⅳ-2. 발진티프스 (sporadic typhus)]]     | R. prowazekii                                                                  | \-                | \-                               |
-| [[../../../../Ⅳ-3. 홍반열 (spotted fever group)\|Ⅳ-3. 홍반열 (spotted fever group)]] | Rickettsia rickettsii (→ Rocky mountain fever)<br>R. quintana (→ Trench fever) | 감염된 진드기에 의해 교상 감염 | 출혈성 점상진                          |
-| [[../../../../Ⅳ-4. Rickettsialpox\|Ⅳ-4. Rickettsialpox]]                       | R. akari                                                                       | \-                | \-                               |
-| [[./질병/Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐\|Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐]]   | Oreientia tsutsugamushi                                                        | \-                | \-                               |
-| [[../../../../Ⅳ-6. 큐열 (Q fever) ⭐\|Ⅳ-6. 큐열 (Q fever) ⭐]]                       | **Coxiella burnieti**                                                          | \-                | 사람에서 병원성 높고, <br>동물에서 불현성(거의 없음) |
-| [[../../../../Ⅳ-7. Ehrlichiosis\|Ⅳ-7. Ehrlichiosis]]                           | Ehrlichia spp.(canis, sennetsu, equi 등)                                        | **Meta**zoonoses  | \-                               |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-1. 발진열 (Murine Typhus).md\|Ⅳ-1. 발진열 (Murine Typhus)]]             | Rickettsia prowazekii                                                          | \-                | \-                               |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-2. 발진티프스 (sporadic typhus).md\|Ⅳ-2. 발진티프스 (sporadic typhus)]]     | R. prowazekii                                                                  | \-                | \-                               |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-3. 홍반열 (spotted fever group).md\|Ⅳ-3. 홍반열 (spotted fever group)]] | Rickettsia rickettsii (→ Rocky mountain fever)<br>R. quintana (→ Trench fever) | 감염된 진드기에 의해 교상 감염 | 출혈성 점상진                          |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-4. Rickettsialpox.md\|Ⅳ-4. Rickettsialpox]]                       | R. akari                                                                       | \-                | \-                               |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐.md\|Ⅳ-5. 쯔쯔가무시병 (Tsutsugamushi) ⭐]]   | Oreientia tsutsugamushi                                                        | \-                | \-                               |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-6. 큐열 (Q fever) ⭐.md\|Ⅳ-6. 큐열 (Q fever) ⭐]]                       | **Coxiella burnieti**                                                          | \-                | 사람에서 병원성 높고, <br>동물에서 불현성(거의 없음) |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-7. Ehrlichiosis.md\|Ⅳ-7. Ehrlichiosis]]                           | Ehrlichia spp.(canis, sennetsu, equi 등)                                        | **Meta**zoonoses  | \-                               |
 
 
 # CH.4-2 Chlamidiosis
 
 - 그람 음성, 비운동성
-- [[../../../../giemsa 염색|giemsa 염색]]에 자색으로, machiavello 염색에 적색으로 염색됨
+- [[giemsa 염색|giemsa 염색]]에 자색으로, machiavello 염색에 적색으로 염색됨
 
 | 질병                                                                                     | 원인균                    | 감염양식     | 증상 | 진단 및 예방 |
 | -------------------------------------------------------------------------------------- | ---------------------- | -------- | -- | ------- |
-| [[../../../../Ⅳ-8. 앵무병 (Psittacosis)\|Ⅳ-8. 앵무병 (Psittacosis)]] | **Chlamydia psittaci** | **기회감염** | \- | \-      |
+| [[vet/1. Lecture/06-5. 공중보건학및역학/질병/Ⅳ-8. 앵무병 (Psittacosis).md\|Ⅳ-8. 앵무병 (Psittacosis)]] | **Chlamydia psittaci** | **기회감염** | \- | \-      |
 
 
