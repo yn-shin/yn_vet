@@ -12,8 +12,8 @@ aliases:
 - ⇒ **serum calcium ↑** (따라서 저칼슘혈증일 때 PTH가 증가하여 작용함)
 ##### 2) Regulation of serum phosphate (인산염 농도 조절)
 ![[Pasted image 20241002111427.png|Phostphate 조절|370]]
-- ==Inhibition of the reabsorption of phosphate from the tubular fluid **(=excretion ↑)**== (세뇨관에서 인산염 재흡수 억제; 소변으로 배출)
-- ==Increase in uptake of phosphate from the intestine and bones **(=absorption ↑)**== into the blood (장과 뼈에서 인산염 흡수 증가)
+- ==Inhibition of the reabsorption of phosphate from the tubular fluid== (=**excretion ↑**) (세뇨관에서 인산염 재흡수 억제; 소변으로 배출)
+- ==Increase in uptake of phosphate from the intestine and bones== (=**absorption ↑**) into the blood (장과 뼈에서 인산염 흡수 증가)
 
 ##### 3) Vitamin D synthesis (비타민D 합성)
 - Stimulation of the conversion of `25-hydroxy vitamin D` into `1,25-dihydroxy vitamin D` (calcitriol) ⇒ 콩팝의 비타민D 흡수 촉진
