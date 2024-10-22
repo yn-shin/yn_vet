@@ -9,6 +9,8 @@ BOX:
 팀티칭: 
 차시: 
 진행률: 
+share_link: https://share.note.sx/8b3jhw0y#oYrEur+vb5K5bgDyRCKVHsDIKNgxr1hBcHjCoaLHzRo
+share_updated: 2024-10-22T21:43:46+09:00
 ---
 
 - 전해질이 소변에서 얼마나 빠져나갔는지 확인하는 지표.
