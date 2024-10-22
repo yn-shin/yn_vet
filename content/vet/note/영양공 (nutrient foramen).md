@@ -8,7 +8,7 @@ share: "true"
 
 - NF=영양공(Nutrient foramen)
 - A : humerus, B : radius, C : femur, D : tibia
-![[../../Settings/Attached files/Pasted image 20240904103606.png|500]]
+![[Pasted image 20240904103606.png|500]]
 - H = head
 - CO = condyle
 - LC = lateral condyle
