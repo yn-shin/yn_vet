@@ -9,6 +9,8 @@ BOX:
 팀티칭: 
 차시: 
 진행률: 
+share_link: https://share.note.sx/el0c6qkl#Rj0b8vp6w4e8dVzYonAVaYYOy2tJMn2SuxoXtfJmqQg
+share_updated: 2024-10-22T21:43:47+09:00
 ---
 
 - 요농축+희석 능력을 평가할 수 있음. (total urine solute concentration)

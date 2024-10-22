@@ -8,6 +8,8 @@ BOX:
 tags:
   - 비뇨기계
   - 해부학
+share_link: https://share.note.sx/l14tna3u#28d+laDWyaXXnfUIHjptpenYj2eurCGl65URr9WidEY
+share_updated: 2024-10-22T21:40:13+09:00
 ---
 
 # Overview

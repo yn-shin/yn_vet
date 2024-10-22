@@ -12,6 +12,8 @@ BOX:
 팀티칭: 
 차시: 
 진행률: 
+share_link: https://share.note.sx/bcq5ml9j#duMsfcFwTsiwUfwKN5kJ0cPHY/Qaw+XQykY/EDKeVpM
+share_updated: 2024-10-22T21:43:45+09:00
 ---
 
 ### 단백뇨란?

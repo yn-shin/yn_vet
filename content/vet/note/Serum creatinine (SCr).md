@@ -9,6 +9,8 @@ BOX:
 팀티칭: 
 차시: 
 진행률: 
+share_link: https://share.note.sx/5928lkxt#CpN6HvSufO6QSLY8Gc+sZfOEpxQhYquBtfEzSidy7AI
+share_updated: 2024-10-22T21:43:33+09:00
 ---
 
 - **Serum creatinine (SCr)** : 근육의 phophocreatine이 대사되어 생성된 물질로, 사구체 여과액을 통해 빠져나가 신장으로 배설됨.
