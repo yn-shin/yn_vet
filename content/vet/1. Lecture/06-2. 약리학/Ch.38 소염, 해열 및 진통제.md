@@ -19,7 +19,7 @@ share: "true"
 1) Salicyclic acid 유도체 : aspirin, diflunisal
 2) Propionic acid : ibuprofen, ketoprofen, naproxen
 3) Acetic acid : diclofenac, indomethacin
-4) Enolic acid : meloxicam, piroxicam
+4) Enolic acid : **meloxicam**, **piroxicam**
 5) Fenamates : mefenamic-acid, meclofenamate
 6) 선택적 COX-2 억제제 : celecoxib
 
