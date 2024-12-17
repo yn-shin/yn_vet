@@ -9,6 +9,8 @@ BOX:
 차시: 9-10주차
 진행률:
   - 필기_러프
+share_link: https://share.note.sx/9vtzip3w#61z5AsszMl4A91XbXNng1dp4GFQfZA7XUiCxMAn3XLk
+share_updated: 2024-12-18T00:30:44+09:00
 ---
 
 # 1. Background
@@ -35,13 +37,25 @@ BOX:
 
 # 2. Overview
 
+>[!check] 청진 시 들리는 소리
+> 퇴행성 질병이 일어난다. 나이가 들수록 많이 생김.
+> - 정상 심음은 'Rub-dub' (Rub이 큰 소리-쿵, dub이 작은 소리, 덕) : S1과 S2로 구분한다.
+> 	- **S1 (1음)** : 이첨판과 삼첨판이 동시에 닫힐 때 나는 소리. (lub; 쿵)
+> 	- **S2 (2음)** : Aortic valve, pulmonary valve가 동시에 닫힐 때 나는 작은 소리. (dub; 덕)
+> - 정상적으로 되지 않을 때 '**부정맥(Arrhythmia)**' 이라고 한다.
+> - 청진(Auscultation)으로 알 수 있다.
+> 	- 청진으로 심장의 구조적 이상과 기능적 이상을 90% 이상 찾아낼 수 있다.
+
 - 대부분 valvular disease에 의해 일어난다. 
 - 나이가 들면 valve degeneration → 혈액이 역류나 내보내는 데 이상 → 혈액 역류(regurgitation)
 - 심장의 우측보다 **좌측 valve**에서 질병이 더 자주 발생한다. (좌:우=7:3 정도)
 
-#### Volume overload
-
+#### ⏺️ Volume overload
 심방과 심실의 volume이 증가함.
+
+- **Eccentric hypertrophy** 
+- **Systolic dysfunction** : 시간이 지날수록 심근의 **수축력**이 감소함.
+- [[Cardiology 1. MMVD|MMVD]], [[Cardiology 2. PDA|PDA]] (L to R), [[ASD|ASD]] 
 
 원래 혈액이 [심실에서 동맥으로] 나가야 하는데, valve 문제로 일부가 [심실에서 심방으로] 역류 → 그 뒤쪽 장기의 dilation이 나타남.
 
@@ -49,25 +63,20 @@ BOX:
 - 좌심방과 좌심실 사이 mitral valve 역류 → 좌심방 혈액량 증가 → 폐정맥 congestion → 폐도 congestion → pulmonary edema
 	- 이렇게 Left sdie에 문제가 생기면 혈액이 울혈되며 pulmonary edema가 나타날 수 있는데, 이를 **congestive heart failure** 이라고 함
 %%- 만약 폐에 물이 너무 많이 차면 폐포가 터질 수 있음 → 폐출혈 → 피 토함%%
-- **Systolic dysfunction** : 시간이 지날수록 심근의 **수축력**이 감소함.
-- [[Cardiology 1. MMVD|MMVD]], [[Cardiology 2. PDA|PDA]], [[ASD|ASD]] 
 
-#### Pressure overload
+#### 🔼  Pressure overload
 
-- Concentric hypertrophy : 심실에서 혈관을 통해 나가지 못해, 수축력이 증가하고 심실이 두꺼워짐.
-- Diastolic dysfunction
-- [[Aortic stenosis|Aortic stenosis]], [[Pulmonic stenosis|Pulmonic stenosis]], [[Cushing|Cushing]], systemic hypertension
+- **Concentric hypertrophy** : 심실에서 혈관을 통해 나가지 못해, 수축력이 증가하고 심실이 두꺼워짐.
+- **Diastolic dysfunction**
+- [[Aortic stenosis|Aortic stenosis]], [[Pulmonic stenosis|Pulmonic stenosis]], [[Cushing|Cushing]], systemic hypertension, PDA (R to L)
 - 심장의 valve에 문제가 생김.
 
 #### Concomittant
 
-동시에 발생.
+동시에 발생. 예후가 훨씬 나쁨.
+- DCM, AS
 
 # 3. 질환
-
-⏺️ Volume overlooad
-
-🔼 Pressure overload
 
 ## ⏺️ MMVD = MVI (Mitral valve insufficiency)
 
@@ -83,22 +92,27 @@ Mitral valve regurgitation, degeneration도 다 같은 말.
 | 경과  | 심방귀, 좌심방 dilation 되면서 globular heart shape로 심장 모양 변함.<br>좌심방이 커지면 carina를 눌러서 기침 심해짐, tracheal elevation. |
 | 약물  | **Diuretics**<br>**ACE inhibitors**                                                                       |
 %%
-### 1, 2기 : Moderate cardiac remodeling / 3기 : Severe remodeling
+### 1) 1, 2기 : Moderate cardiac remodeling / 3기 : Severe remodeling
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1기** (**Moderate : 좌심방귀 볼록한 정도**)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ![[Pasted image 20241217195633.png\|220]] ![[Pasted image 20241217195720.png\|119]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **1) 심장 커짐**<br>Cardiomegaly, left auricle 확장, 전허리/후허리 소실 : 심장이 부풀면서 일자형이 됨.<br>+ Sternal contact : 심장과 sternum 거리 좁아짐<br>**2) 기관에 영향**<br>좌심방 비대 ⇒ 기관 상승, carina를 눌러서 기침 유발 (주로 밤에 기침)<br>: tracheal elevation, bronchial collapse, noctural cough<br>                                                                                                                                                                                                                                                                                                                                             |
-| 💊 **ACE inhibitor** (우선 사용!! / 초기에는 단독 사용)<br>Angiotensin Ⅱ 차단, 혈관 수축 억제, 혈압 감소. ADH 분비 감소, RAAS 차단.<br>- **Ramipril**, benazepril, captopril, enalapril<br>💊 **Diuretics** (물을 배출)<br>- **Furosemide** : 물 배출. 높은 용량으로 오래 → 탈수, hypokalemia, 대사성 알칼리증<br>- Spironolactone : 물과 소금만 배출, 칼륨 배설 X. 저칼륨혈증 발생 시 추가.                                                                                                                                                                                                                                                                                   |
-| **2기** (Moderate)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ![[Pasted image 20241217195826.png\|200]] ![[Pasted image 20241217195847.png\|125]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 기존 소견 모두 동일.<br>**1) 심장 커짐**<br>Left auricle 확장, cranial/caudal waist 소실, Globoid heart, Cardiomegaly<br>+ Sternal contact **매우** 증가<br>**2) 기관 영향**<br>Tracheal elevation, bronchus compression<br>⇒ **Static collapse**로 발전<br><br>**3) 판막, 역류, 심잡음**<br>판막의 thickening (glycose aminoglycan 침착) = Myxomatous degeneration <br>= **mitral valve prolapse** (MVP, 판막이 뒤로 휨)<br>⇒ Regurgitation, systolic murmur (심잡음 6단계 중 3단계)<br>**4) 기절**<br>기침 증상이 심하면 **syncope** (산소 포화도와 혈압이 감소하면서 cardiac output이 감소했기 때문)<br><br>+ interstitial pattern, LA rupture 가능성,<br>너무 늘어나니 수축이 잘 안 되어 심방부정맥.<br> |
-| 💊 ACEi + Diuretics 기본 <br>💊 **강심제** (혈압 상승)<br>- **Pimobendane** : vasodilation까지 r가능<br>💊 **기침약**<br>- **Theophylline** : 기관지확장제, PDE inhibitor.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **3기 (Severe : 좌심실까지 확실히 커짐)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ![[Pasted image 20241217203106.png\|204]] ![[Pasted image 20241217203118.png\|130]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 1) 좌심방-좌심실 경계가 사라지고 흉벽과 가까워짐 ⇒ **우심부전**까지 발생.<br>2) Tracheal elevation도 매우 뚜렷.<br>3) 좌심실, 좌심방의 피가 완전히 섞여 와류가 생김 (Aliasing)<br>4) 기침, syncope, **폐수종**까지 발생                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-#### CTR 함께 나타나면
+| **1기** (**Moderate : 좌심방귀 볼록한 정도**)                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20241217195633.png\|239]] ![[Pasted image 20241217195720.png\|130]]                                                                                                                                                                                                                               |
+| **1) 심장 커짐**<br>Cardiomegaly, left auricle 확장, 전허리/후허리 소실 : 심장이 부풀면서 일자형이 됨.<br>+ Sternal contact : 심장과 sternum 거리 좁아짐<br>**2) 기관에 영향**<br>좌심방 비대 ⇒ 기관 상승, carina를 눌러서 기침 유발 (주로 밤에 기침)<br>: tracheal elevation, bronchial collapse, noctural cough<br>                                                           |
+| 💊 **ACE inhibitor** (우선 사용!! / 초기에는 단독 사용)<br>Angiotensin Ⅱ 차단, 혈관 수축 억제, 혈압 감소. ADH 분비 감소, RAAS 차단.<br>- **Ramipril**, benazepril, captopril, enalapril<br>💊 **Diuretics** (물을 배출)<br>- **Furosemide** : 물 배출. 높은 용량으로 오래 → 탈수, hypokalemia, 대사성 알칼리증<br>- Spironolactone : 물과 소금만 배출, 칼륨 배설 X. 저칼륨혈증 발생 시 추가. |
+
+| 2기 (Moderate)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20241217195826.png\|220]] ![[Pasted image 20241217195847.png\|137]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 기존 소견 동일하게,<br>**1) 심장 커짐**<br>Left auricle 확장, cranial/caudal waist 소실, Globoid heart, Cardiomegaly<br>+ Sternal contact **매우** 증가<br>**2) 기관 영향**<br>Tracheal elevation, bronchus compression<br>⇒ **Static collapse**로 발전<br><br>**3) 판막, 역류, 심잡음**<br>판막의 thickening (glycose aminoglycan 침착) = Myxomatous degeneration <br>= **mitral valve prolapse** (MVP, 판막이 뒤로 휨)<br>⇒ Regurgitation, systolic murmur (심잡음 6단계 중 3단계)<br>**4) 기절**<br>기침 증상이 심하면 **syncope** (산소 포화도와 혈압이 감소하면서 cardiac output이 감소했기 때문)<br><br>+ interstitial pattern, LA rupture 가능성,<br>너무 늘어나니 수축이 잘 안 되어 심방부정맥.<br> |
+| 💊 ACEi + Diuretics 기본 <br>💊 **강심제** (혈압 상승)<br>- **Pimobendan** : vasodilation까지 가능<br>💊 **기침약**<br>- **Theophylline** : 기관지확장제, PDE inhibitor.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+| **3기 (Severe : 좌심실까지 확실히 커짐)**                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20241217203106.png\|235]] ![[Pasted image 20241217203118.png\|150]]                                                                        |
+| 1) 좌심방-좌심실 경계가 사라지고 흉벽과 가까워짐 ⇒ **우심부전**까지 발생.<br>2) Tracheal elevation도 매우 뚜렷.<br>3) 좌심실, 좌심방의 피가 완전히 섞여 와류가 생김 (Aliasing)<br>4) 기침, syncope, **폐수종**까지 발생 |
+
+
+### 2) CTR 함께 나타나면
 - Chordae tendineae(힘줄끈) : 판막에 연결되어 판막을 열고 닫음.<br>![[Pasted image 20241217203723.png|150]]
 - 힘줄끈이 끊어지면 판막이 완전히 닫히지 않음.
 - CTR = 힘줄끈 rupture ⇒ 판막이 심하게 열려 기침 심해지고, 폐에 물이 많이 참.
@@ -109,42 +123,99 @@ Mitral valve regurgitation, degeneration도 다 같은 말.
 | - Mitral & Tricuspid valve 모두 이상 ⇒ Lt. & Rt. atrium 모두 볼록<br>- Lt. auricle, LA 확장 ⇒ Trachea elevation, Caudal waist 소실, tall heart<br><br>☑️ **흉수(pleural effusion)** : <u>우심부전</u> 시 주로 흉수, 복수 (체순환 혈액 받아들이지X)<br>: 우심 valve 이상 → 폐로 가는 혈액량 감소 → 우심방 비대, 혈액 정체, congestion → 전신 정맥압 상승 → pleural cavity의 모세혈관 압력 증가, 수분 누출 → 흉막강에 체액 축적<br>⇒ 심장 주위 뿌옇게 물 참. 흉수 때문에 폐가 팽창하지 못해서(collapsed), 빈호흡, 호흡곤란, 산소 포화도 감소, 청색증 (*Thoracocentesis 필요)<br><br>☑️ **폐수종(pulmonary edema)**, **폐출혈** : 주로 <u>좌심부전</u>과 연관 (폐순환 혈액 받아들이지X)<br>: 폐정맥압, 폐모세혈관압이 상승(pulmonary vein hypertension) → 물이 빠져나와 폐포 공간으로 축적.<br>: pulmonary vein, post capillary hypertension → 압력 너무 높아져서 터지면 폐출혈<br><br>☑️ 호흡을 잘 못해서 위에 공기가 참 (Airophagia)<br>☑️ Heart failure → cardiac output 감소, hypotension(동맥), 기침, 기절 등<br> |
 | **영상학적 소견**<br>- interstitial pattern<br>- Cardiac sillouette (심장 주변에 물이 차서 심장이 잘 안 보임)<br>- Scallop sign (중력에 의해 물이 아래로 가라앉아 뿌옆게 보이고, 심장이 잘 안 보임)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 💊 **혈관확장제** : pulmonary edema의 체액이 폐동맥, 폐정맥으로 흡수되게 함.<br>- **nitroglycerin**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
->[!check] 
+>[!check] 심부전(Heart failure)의 기준
 >- Heart insufficiency : 기능의 70~80%는 수행
 >- Heart failure = 20~30% 이하로 기능, decompensative state
 
-### 병이 진행되어 심장 수축력에 영향이 가면
+### 3) 병이 진행되어 심장 수축력에 영향이 가면
 
 - 이 수준이 되면 이뇨제, ACEi, 기관지확장제로는 부족하다.
-- 심부전(cardiac failure)이 발생하므로, 수축력 증가를 위한 강심제가 필요.
+- 심부전(cardiac failure)이 발생하므로, 수축력 증가를 위한 **강심제**가 필요.
+- 수축력(FS)이 감소하면 ⇒ **syncope, 폐수종** ⇒ 강심제 처방 필요
 
-- FS = 수축능력
-- 수축력이 감소하면 ⇒ syncope, 폐수종 ⇒ 강심제 처방 필요
+| 강심제 2가지                                                                                    |                                                                                       |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| 💊**Digoxin**                                                                              | 💊**Pimobendan**                                                                      |
+| **심장 수축력 증가<br>교감신경 차단<br>혈관 확장 불가**                                                       | PDE3을 방해해서 **혈관 확장**<br>칼슘 결합력을 높여 심장 근육 ↑ - **강심**<br><br>                           |
+| FS(수축력) 감소 + tachycardia 시 사용<br>(교감신경 항진으로 심장 빨리 뜀 → 심근무력증 발생.<br>Digoxin 처방으로 교감신경 비활성화) | 기절, 폐수종, 폐출혈 시 사용<br>digoxin 반응 안 좋으면 같이 사용<br>insufficiency 단계에서 X → failure 단계에서 사용 |
+- 참고) ACEi는 혈관을 mild하게 확장시키고 RAAS를 차단하지만, 강심 기능은 없음.
+#### 경우별 약물 사용
 
-| Digoxin                                                                   | Pimobendane                                                    |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 심장 수축력 증가<br>교감신경 차단<br>혈관 확장 불가<br><br>FS(수축력) 감소 + tachycardia 시 사용<br> | PDE3을 방해해서 혈관 확장<br>칼슘 결합력을 높여 심장 근육 ↑ <br><br>심부전 단계에서 사용<br> |
-|                                                                           | 참고) ACEi는 혈관을 mild하게 확장시키지만, 강심 기능은 없음.                        |
-
-
-| FS ⬇️ / Tachy              | FS➡️ / Tachy                                                                                                                                                                                              |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 강심제 사용                     | 보상성으로 빈맥 발생                                                                                                                                                                                               |
-| - Digoxin<br>- Pimobendane | - **ACEi** (-pril)<br>- and/or **Furosemide** (+Spironolactone)<br>- CalciumCEB(calcium entry blocker (Amlodipine)<br>   : calcium entry blocker칼슘 유입 차단, 심장 천천히<br>- β-blockers - atenolol, carvedilol : |
+| FS ⬇️ / Tachy                     | FS ➡️(정상) / Tachy                                                                                                                                                                                                        | PA/PV ⬆️ (폐혈관 혈압↑)                                                                                                          |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| 강심제 사용                            | 보상성으로 빈맥 발생                                                                                                                                                                                                              | 치료 중 저혈압 모니터링 필요                                                                                                            |
+| - **Digoxin**<br>- **Pimobendan** | - **ACEi** (-pril)<br>- and/or **Furosemide** (+Spironolactone)<br>- **CEB**(calcium entry blocker) (**Amlodipine**)<br>   : 칼슘 유입 차단, 심장 천천히<br>- **β-blockers** (**atenolol, carvedilol**) :<br>   : 심장 수축력 감소, 심박수 감소 | - Hydralazine : 동정맥 확장제<br>- ACEi : mild 확장<br>- **Sildenafil**/Tadanafil : 폐동맥 확장제<br>- (+ **NG**(nitroglycerin): 동정맥 확장제) |
 - Spironolactone : Furosemide의 저칼륨혈증 부작용을 보완.
+- β-blockers
+	- **Atenolol** (2세대) : 선택적 β1 차단 ⇒ 말초저항 증가, 혈관 확장 X
+		- 부정맥/심근경색 후 관리에 적용
+		- 간으로 대사됨. 혈당 저하, 저혈압, 어지로움 등의 부작용.
+	- **Carvedilol** (3세대) : 비선택적 β 차단(β1+β2), α1 차단 ⇒ 혈관 확장, 말초저항 감소
+		- 심근비대, DCM, 고혈압 치료에 적용
+		- 신장으로 배설됨. 서맥, 피로, 운동불내증 등의 부작용.
+
+## ⏺️ CHF (Congestive heart failure, 울혈성 심부전)
+#### 1) Postcapillary hypertension (폐정맥 고혈압)
+- Mitral valve insufficiency → 좌심방에 물이 고임, 폐정맥 congestion & hypertension (폐정맥에서 들어와야 할 혈액이 못 들어옴)
+- PCW (pulmonary capillary wedge pressure) 증가
+- 혈관이 터지면서 폐수종, 폐출혈
+- 💊 **Nitroglycerin** 적용 → 혈관을 확장시켜서 물이 빠짐, 폐수종 개선
+
+#### 2) Precapillary hypertension (폐동맥 고혈압)
+- Tricuspid valve 이상 → 우심방 비대 → 앞/뒤대정맥 비대 (우심방으로 들어오지 못해서)
+- 혈액이 정체되어 전신 정맥들에 traffic 걸림
+- splenomegaly, hepatomegaly, hepatic congestion, 위 문제로 인한 소화불량
+- 뇌 정맥 congestion, 뇌 정맥류, 뇌 질환, 경련 등
+
+## ✅ 응급치료 (FON) : 심부전 응급 상황에서 사용하는 약물
+#### 1) 환자 안정화
+- **Furosemide** : 이뇨제. intravascular volume 감소 → 폐수종 개선
+- **O2** 공급 (산소 케이지)
+- **NG patch** : 폐동정맥 확장
+#### 2) FON
+- **FON-D(Dopamine)** : Catecholamine 계열로 일시적으로 사용. 심근 수축력 증가시켜 심장을 빨리 뛰게 함.
+- **FON-P(Pimobendan)** : 심장 박출량 증가, 혈액 순환 개선 
+- **Nitroprusside**-IV for emergency : 강력한 동정맥 확장제, 혈압의 급격한 감소.
+	- Tissue perfusion이 감소하여 조직 영양 공급 감소, 장기손상(ischemia), 신장 뇌 등 손상도 발생 가능.
+
+## ⏺️ PDA (Patent Ducturs Arteriosus, 동맥관개존증)
+
+>[!note] **Background : 태아기 구조 2개**
+> - 태아 때는 lung collapsed, 기능하지 않음. → 폐동맥의 피가 폐로 들어가지 못해 폐동맥압 높음. 
+> - 그래서 (1) **Foramen ovale (타원구멍)** : 좌심방과 우심방 사이 구멍으로 우심방 → 좌심방으로 혈액 이동.
+> 	- 폐동맥압이 너무 강해 우심실의 혈액이 폐동맥으로 들어가지 못하니, **RV → RA → (타원구멍) → LA → LV → 대동맥**으로 혈액 이동.
+> 	- 출생 후에는 좌심방 압력이 더 높아지며 닫히고, 타원오목(Fossa ovalis)라는 섬유조직으로 남음.
+> - (2) **Ductus Arteriosus(동맥관)** : 태아 시기 폐동맥과 대동맥 사이의 관으로 폐동맥 → 대동맥으로 혈액 이동.
+> 	- 산소가 풍부한 혈액이 **폐동맥에서 바로 대동맥으로** 흘러가 전신 순환.
+> 	- 출생 후 동맥관인대(Ligamentum Arteriosum)으로 전환됨.
+> - 출생 후 산소로 호흡하기 시작하면 산소 포화도 증가 → 폐확장 → 폐동맥압 감소 → 혈액이 정상적으로 흐름.
+> 
+> ![[Pasted image 20241218000247.png|400]]
+
+
+| PDA      |                                                                                                                                                                                                                    |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 정의       | 출생 후에도 동맥관이 닫히지 않아 **대동맥 → 폐동맥**으로 피가 흘러 발생한 좌심방 비대.                                                                                                                                                               |
+| 기전       | 폐동맥 dilation → 폐와 폐정맥을 거쳐 좌심방까지 volume overload → **좌심방 비대**                                                                                                                                                       |
+| 경과       | - 좌심방 비대 → carina를 자극해 기침 유발, MVI와 동일 기전.<br>- 기침, 객혈, 폐수종, left side congestive failures<br>- countinuous murmur<br>- eccentric hypertrophy (벽 두께가 아닌 공간 확장으로 부피 증가)<br>- volume overload로 판막이 벌어져서 Secondary MVI |
+| 영상<br>소견 | - VD view의 1시 방향에 있는 mPA 커짐<br>- 심장 초음파로 duct 크기 판단 가능. `Ao:mPA=1:1` 이 정상인데, 폐동맥이 더 커짐.<br>- 좌심방이 더 커짐. (⇒ 심전도에서 P파가 넓어진 mitral P)                                                                                 |
+| 치료       | Femoral artery에 관을 삽입 → 대동맥까지 가서 관을 막음                                                                                                                                                                             |
+
+| 분류                  |                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⏺️ **L to R shunt** | 대동맥압 > 폐동맥압.<br>**대동맥 → 폐동맥**으로 혈액 이동. ⇒ Volume overload.<br>대동맥 혈액의 높은 산소 포화도에는 영향 X → 청색증 X                                                                                                                                                                                                                                                                                                                     |
+| 🔼 **R to L shunt** | 대동맥압 < 폐동맥압. (∵ 폐동맥 확장하는 surfactant 부족)<br>RA → RV → **폐동맥 → 동맥관 → 대동맥**으로 혈액이 샘.                                                                                                                                                                                                                                                                                                                                 |
+|                     | ☑️ **Differential cyanosis** (차등 청색증) 나타남.<br>: 산소 포화도가 낮은 <u>폐동맥 혈액이 전신 순환에 합류</u> → systemic한 저산소증 발생<br>→ 산소 포화도 감소 → 산소가 필요해 <u>빈호흡, 빈맥</u><br>→ 호흡 곤란, 운동 불내증, 객혈, Epo 증가로 적혈구증가증 (<u>PCV 증가</u>)<br>→ <u>Thromboembolism</u>(혈전 잘 생김), 혈액 끈적<br>→ <u>혈압 증가</u> → 작은 혈관 터짐 (뇌출혈)<br><br>❔차등 청색증❔<br>- 동맥관 앞의 피는 산소 포화도 높음 - 이 혈액들은 머리 쪽으로 감, 머리에는 청색증 X.<br>- 동맥관 뒤의 피는 산소 포화도 낮아짐 - 이 혈액들은 전신 순환, 몸에서는 청색증. |
+|                     | 치료 어려움. (Duct 묶으면 심장의 right side에 심한 압력이 걸림, 폐가 커지고 폐출혈)<br>→ 예후도 좋지 않음.<br><br>💊 약물 처방<br>- 폐동맥 확장제 : **Sildenafil**, **Nitroglycerin**, **Hydralazine** 등 (but 불충분)<br>- Endothelin 차단제 : 혈관을 수축시키는 호르몬을 차단 → 혈관 확장<br>- Prostacyclin : 혈관 확장제이자 항혈소판제.                                                                                                                                                        |
+
+## 🔼 Cushing Disease
 
 
 
+%%
 # 질병
 
->[!check] 청진 시 들리는 소리
-> 퇴행성 질병이 일어난다. 나이가 들수록 많이 생김).
-> - 정상 심음은 'Rub-dub' (Rub이 큰 소리-쿵, dub이 작은 소리, 덕 - S1과 S2로 구분한다.
-> 	- **S1 (1음)** : 이첨판과 삼첨판이 동시에 닫힐 때 나는 소리. (lub; 쿵)
-> 	- **S2 (2음)** : Aortic valve, pulmonary valve가 동시에 닫힐 때 나는 작은 소리. (dub; 덕)
-> - 정상적으로 되지 않을 때 '부정맥(Arrhythmia)' 이라고 한다.
-> - 청진(Auscultation)으로 알 수 있다.
-> 	- 청진으로 심장의 구조적 이상과 기능적 이상을 90% 이상 찾아낼 수 있다.
+
 
 ### Mitral valve regurgitation
 
@@ -226,7 +297,7 @@ Volume overload
 - ASB : artrium이 수축해야 ventricle로 내려오는데, LA와 RA 사이 판막에 구멍이 뚫려 LA에서 RA로도 흘러감 → 우심방 overload. Right Atrium dilation
 	- 윤상근 늘어나며 RV까지 커짐
 
-ㄷ
+
 
 | 사진 모음                                     |                                           |                                      |
 | ----------------------------------------- | ----------------------------------------- | ------------------------------------ |
@@ -389,3 +460,6 @@ NG+sildenafil : 저혈압이 생길 수 있음, BP 모니터링 필요
 - Pulmonary artery
 	- 커지는 경우: 
 - 최소 60%가 튀너나간다
+
+
+%%
