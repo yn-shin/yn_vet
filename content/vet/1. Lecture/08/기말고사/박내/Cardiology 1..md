@@ -64,6 +64,17 @@ share_updated: 2024-12-18T00:30:44+09:00
 	- 이렇게 Left sdie에 문제가 생기면 혈액이 울혈되며 pulmonary edema가 나타날 수 있는데, 이를 **congestive heart failure** 이라고 함
 %%- 만약 폐에 물이 너무 많이 차면 폐포가 터질 수 있음 → 폐출혈 → 피 토함%%
 
+>[!tldr] Systolic dysfunction
+>- **PDA** (Patent Ductus Arteriosus): L→R 
+> - **VSD** (Ventricular Septal Defect): L→R 
+> - **MVI** (Mitral Valve Insufficiency) 
+> - **MVD** (Mitral Valve Dysplasia) 
+> - **TVI** (Tricuspid Valve Insufficiency) 
+> - **TVD** (Tricuspid Valve Dysplasia) 
+> - **DCM** (Dilated Cardiomyopathy): 심실 벽이 얇아지고 심장이 확장되는 형태의 심근 질환 
+> - **AR** (Aortic Regurgitation): aortic valve가 안 닫히면 대동맥 혈액이 역류되어 좌심실에 volume overload 생김 
+> - **PR** (Pulmonic Regurgitation): pulmonic valve에 이상이 생겨 폐동맥 혈액이  역류해 우심실 volume overload 
+
 #### 🔼  Pressure overload
 
 - **Concentric hypertrophy** : 심실에서 혈관을 통해 나가지 못해, 수축력이 증가하고 심실이 두꺼워짐.
@@ -199,7 +210,7 @@ Mitral valve regurgitation, degeneration도 다 같은 말.
 | 기전       | 폐동맥 dilation → 폐와 폐정맥을 거쳐 좌심방까지 volume overload → **좌심방 비대**                                                                                                                                                       |
 | 경과       | - 좌심방 비대 → carina를 자극해 기침 유발, MVI와 동일 기전.<br>- 기침, 객혈, 폐수종, left side congestive failures<br>- countinuous murmur<br>- eccentric hypertrophy (벽 두께가 아닌 공간 확장으로 부피 증가)<br>- volume overload로 판막이 벌어져서 Secondary MVI |
 | 영상<br>소견 | - VD view의 1시 방향에 있는 mPA 커짐<br>- 심장 초음파로 duct 크기 판단 가능. `Ao:mPA=1:1` 이 정상인데, 폐동맥이 더 커짐.<br>- 좌심방이 더 커짐. (⇒ 심전도에서 P파가 넓어진 mitral P)                                                                                 |
-| 치료       | Femoral artery에 관을 삽입 → 대동맥까지 가서 관을 막음                                                                                                                                                                             |
+| 치료       | intervention (개흉하지 않고 혈관을 통해 시술)<br>: Femoral artery에 관을 삽입 → 대동맥까지 가서 관을 막음                                                                                                                                       |
 
 | 분류                  |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -208,9 +219,77 @@ Mitral valve regurgitation, degeneration도 다 같은 말.
 |                     | ☑️ **Differential cyanosis** (차등 청색증) 나타남.<br>: 산소 포화도가 낮은 <u>폐동맥 혈액이 전신 순환에 합류</u> → systemic한 저산소증 발생<br>→ 산소 포화도 감소 → 산소가 필요해 <u>빈호흡, 빈맥</u><br>→ 호흡 곤란, 운동 불내증, 객혈, Epo 증가로 적혈구증가증 (<u>PCV 증가</u>)<br>→ <u>Thromboembolism</u>(혈전 잘 생김), 혈액 끈적<br>→ <u>혈압 증가</u> → 작은 혈관 터짐 (뇌출혈)<br><br>❔차등 청색증❔<br>- 동맥관 앞의 피는 산소 포화도 높음 - 이 혈액들은 머리 쪽으로 감, 머리에는 청색증 X.<br>- 동맥관 뒤의 피는 산소 포화도 낮아짐 - 이 혈액들은 전신 순환, 몸에서는 청색증. |
 |                     | 치료 어려움. (Duct 묶으면 심장의 right side에 심한 압력이 걸림, 폐가 커지고 폐출혈)<br>→ 예후도 좋지 않음.<br><br>💊 약물 처방<br>- 폐동맥 확장제 : **Sildenafil**, **Nitroglycerin**, **Hydralazine** 등 (but 불충분)<br>- Endothelin 차단제 : 혈관을 수축시키는 호르몬을 차단 → 혈관 확장<br>- Prostacyclin : 혈관 확장제이자 항혈소판제.                                                                                                                                                        |
 
+|     | PDA Type                                  |                |
+| --- | ----------------------------------------- | -------------- |
+| Ⅰ   | ![[Pasted image 20241204115538.png\|200]] | 뾰족 + 얇음        |
+| ⅡB  | ![[Pasted image 20241204115550.png\|200]] | 뭉툭 + 두툼        |
+| ⅡA  | ![[Pasted image 20241204115616.png\|200]] | 두툼 + 짧음        |
+| Ⅲ   | ![[Pasted image 20241204115807.png\|200]] | 관이 길다<br>가장 심각 |
+
 ## 🔼 Cushing Disease
 
+Pressure overload, concentric hypertrophy
 
+| Cushing | (Pressure overload)                                                                                                                                      |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 정의      | - 부신에서 cortisol 과다 분비되어 발생하는 내분비 질환                                                                                                                      |
+| 기전      | - 근육이 두꺼워져 산소 공급 & 혈관 분포 필요량이 증가, 충분하지 못해 ischemia 발생.<br>- 심장에서 전기 전도가 부족해 2차적으로 부정맥(arrhythmia) 발생<br>- 심방에 혈액이 머물면 혈전이 많이 생김 (thromboembolism)        |
+| 증상      | - 인슐린 저항성이 높아져 포도당을 만들어도 못 쓴다. <br>- 근육을 분해해서 부족한 포도당을 만들고, 나머지를 다시 지방으로 만들어 간이나 복부에 저장한다.<br>- 식욕이 증가하고, 배가 빵빵해짐.<br>- PUPD, dyspnea, 당뇨, pot belly, 탈모 |
+| 영상      | - cranial mediastinum 확장<br>- 지방 많아짐.<br>- 지방으로 가득 찬 복강 (lipomatosis), 지방간(hepatomegaly)                                                                 |
+| 검사      | - ACTH stimulation test : corsitol-post 수치 > 20이면 쿠싱<br>- cPL : 췌장염 진단 호르몬 (높아지면 췌장염)<br>- BNP : 심근 두꺼워짐, cardiac remodeling                             |
+| 치료      | 💊항혈소판제<br>- aspirin, clopidogrel                                                                                                                        |
+아니 내용 너무 자잘하게.. 분산되어 있고..
+## 
+
+- ARB (Angiotensin receptor blocker)
+- ANP, BNP :  심장이 커질 때 분비됨. Volume overload일 때 증가.
+
+>[!check] 심장 크기 관련 공식
+>SV = EDV - ESV<br>EF = SV/EDV (50-70)<br>FS = LVIDd - LVIDs/LVIDd
+>- 심장의 크기를 측정해 수축기 문제 확인
+> - **FS** (Fractional shortening) : 심실이 얼마나 수축했는지
+> - **EF** (Ejection Fraction) : 심실 수축 시 심실 내 혈액 배출 비율
+> - SV (Stroke volume) : 1회 박출량
+> - EDV (End-diastolic volume) : 심실 이완 상태에서 채워진 혈액량
+> - LVIDd/s : 좌심실의 이완기/수축기 직경
+
+
+## 
+
+
+| TVD | (Tricups Valve Dysplasia)                                             |
+| --- | --------------------------------------------------------------------- |
+| 정의  | Chorda tendinae가 너무 가까이 붙어 있어, papillary mm이 너무 많이 수축하여 판막을 계속 열어둔 상태 |
+|     |                                                                       |
+
+| Eisenmenger Syndrome                                                        |     |
+| --------------------------------------------------------------------------- | --- |
+| Concentric hypertrophy (R to L shunt)<br>선천적인 pulmonary artery hypertension |     |
+
+| 폐출혈 |                                                                                                                                      |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 치료  | 안정화(Stabilization), 산소 공급<br>Nitroglycerin patch (폐동맥 고혈압 완화, 폐동정맥 확장)<br>Vitamin K (혈액 응고)<br>이뇨제<br>강심제<br>Pentoxyfylline (혈관 확장제) |
+## 심장 종양
+- 종양이 심방과 심실을 압박해 원래보다 크기가 작아지고, 늘어나지 못함.
+- 2차적으로 valvular insufficiency 유발.
+	- 종양 등 외부 압력 → 좌심 압력이 강해 우심부터 collapse됨 → 정맥피가 못 들어와 좌심실 혈액량 감소 → 전신 저혈압 → syncope
+- lymphoma, chemodectoma
+- Hemangiosarcoma : 주로 우심에 생김. 전이가 빨라 예후가 매우 불량.
+	-  **cardiac tamponade** 유발.
+		- 이완기성 질병, heart base에서 생김
+		- 심내막염, 종양, pericardial effusion에 의해 발생
+- interstitial pattern, cardiac effacement
+
+
+
+| DCM |                                                                          |
+| --- | ------------------------------------------------------------------------ |
+| 원인  | 심장 근육에 유전적인 이상으로 근육이  늘어남.<br>고양이 타우린 영양 결핍에 의해 주로 생김, (이제 고양이 발병 빈도 ↓ ) |
+
+
+## AS, PS
+
+## LCOP
 
 %%
 # 질병
