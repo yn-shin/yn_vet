@@ -10,7 +10,7 @@ BOX:
 진행률:
   - 필기_러프
 share_link: https://share.note.sx/9vtzip3w#61z5AsszMl4A91XbXNng1dp4GFQfZA7XUiCxMAn3XLk
-share_updated: 2024-12-18T00:30:44+09:00
+share_updated: 2024-12-18T07:59:55+09:00
 ---
 
 # 1. Background
