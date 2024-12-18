@@ -332,7 +332,7 @@ Left Ventricular outflow obstruction
 %%
 # 질병
 
-
+[
 
 ### Mitral valve regurgitation
 
