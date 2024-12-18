@@ -10,7 +10,7 @@ BOX:
 진행률:
   - 필기_러프
 share_link: https://share.note.sx/9vtzip3w#61z5AsszMl4A91XbXNng1dp4GFQfZA7XUiCxMAn3XLk
-share_updated: 2024-12-18T07:59:55+09:00
+share_updated: 2024-12-18T09:40:47+09:00
 ---
 
 # 1. Background
@@ -50,7 +50,12 @@ share_updated: 2024-12-18T07:59:55+09:00
 - 나이가 들면 valve degeneration → 혈액이 역류나 내보내는 데 이상 → 혈액 역류(regurgitation)
 - 심장의 우측보다 **좌측 valve**에서 질병이 더 자주 발생한다. (좌:우=7:3 정도)
 
-#### ⏺️ Volume overload
+>[!tldr] 혈압이 낮아지면..
+>- [Short term] 심장 수축력 증가, HR 증가(tachycardia) → 85% 정도까지만 가능
+>- [Long term] **RAAS** 활성화 → 삼투압 증가 → 혈관 내로 물이 들어가서 volume expansion
+>	- Angiotensin Ⅱ가 aldosterone과 ADH를 활성화 : 물과 나트륨 재흡수
+>- 오히려 너무 물이 많아져서 부종, 폐출혈, 폐수종 발생
+#### ⏺️ Volume overload (=Preload)
 심방과 심실의 volume이 증가함.
 
 - **Eccentric hypertrophy** 
@@ -64,7 +69,7 @@ share_updated: 2024-12-18T07:59:55+09:00
 	- 이렇게 Left sdie에 문제가 생기면 혈액이 울혈되며 pulmonary edema가 나타날 수 있는데, 이를 **congestive heart failure** 이라고 함
 %%- 만약 폐에 물이 너무 많이 차면 폐포가 터질 수 있음 → 폐출혈 → 피 토함%%
 
->[!tldr] Systolic dysfunction
+>[!tldr]- Systolic dysfunction 유발 질환들
 >- **PDA** (Patent Ductus Arteriosus): L→R 
 > - **VSD** (Ventricular Septal Defect): L→R 
 > - **MVI** (Mitral Valve Insufficiency) 
@@ -75,12 +80,12 @@ share_updated: 2024-12-18T07:59:55+09:00
 > - **AR** (Aortic Regurgitation): aortic valve가 안 닫히면 대동맥 혈액이 역류되어 좌심실에 volume overload 생김 
 > - **PR** (Pulmonic Regurgitation): pulmonic valve에 이상이 생겨 폐동맥 혈액이  역류해 우심실 volume overload 
 
-#### 🔼  Pressure overload
+#### 🔼  Pressure overload (=Afterload)
 
 - **Concentric hypertrophy** : 심실에서 혈관을 통해 나가지 못해, 수축력이 증가하고 심실이 두꺼워짐.
 - **Diastolic dysfunction**
 - [[Aortic stenosis|Aortic stenosis]], [[Pulmonic stenosis|Pulmonic stenosis]], [[Cushing|Cushing]], systemic hypertension, PDA (R to L)
-- 심장의 valve에 문제가 생김.
+
 
 #### Concomittant
 
@@ -122,6 +127,11 @@ Mitral valve regurgitation, degeneration도 다 같은 말.
 | ![[Pasted image 20241217203106.png\|235]] ![[Pasted image 20241217203118.png\|150]]                                                                        |
 | 1) 좌심방-좌심실 경계가 사라지고 흉벽과 가까워짐 ⇒ **우심부전**까지 발생.<br>2) Tracheal elevation도 매우 뚜렷.<br>3) 좌심실, 좌심방의 피가 완전히 섞여 와류가 생김 (Aliasing)<br>4) 기침, syncope, **폐수종**까지 발생 |
 
+>[!check] 
+>- 심장이 커질 때 (volume overload) **ANP, BNP** 증가함.
+>	- 좌심방 비대 ⇒ ANP 분비 (Atrial natriuretic peptide, 나트륨을 오줌으로 배출, RAAS 반대 작용)
+>	- 좌심실 비대 ⇒ BNP 분비 (Brain natriuretic peptide)
+>- NT-proBNP, Troponin Ⅰ이 증가하면 심장이 커졌음을 유추할 수 있음.
 
 ### 2) CTR 함께 나타나면
 - Chordae tendineae(힘줄끈) : 판막에 연결되어 판막을 열고 닫음.<br>![[Pasted image 20241217203723.png|150]]
@@ -238,7 +248,7 @@ Pressure overload, concentric hypertrophy
 | 영상      | - cranial mediastinum 확장<br>- 지방 많아짐.<br>- 지방으로 가득 찬 복강 (lipomatosis), 지방간(hepatomegaly)                                                                 |
 | 검사      | - ACTH stimulation test : corsitol-post 수치 > 20이면 쿠싱<br>- cPL : 췌장염 진단 호르몬 (높아지면 췌장염)<br>- BNP : 심근 두꺼워짐, cardiac remodeling                             |
 | 치료      | 💊항혈소판제<br>- aspirin, clopidogrel                                                                                                                        |
-아니 내용 너무 자잘하게.. 분산되어 있고..
+
 ## 
 
 - ARB (Angiotensin receptor blocker)
@@ -286,10 +296,38 @@ Pressure overload, concentric hypertrophy
 | --- | ------------------------------------------------------------------------ |
 | 원인  | 심장 근육에 유전적인 이상으로 근육이  늘어남.<br>고양이 타우린 영양 결핍에 의해 주로 생김, (이제 고양이 발병 빈도 ↓ ) |
 
-
 ## AS, PS
 
-## LCOP
+
+| AS                    |                                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| Aortic stenosis       | pressure overload<br>좌심실의 concentric hypertrophy<br>Diastolic dysfunction<br>(1음과 2음 사이에 murmur) |
+| Subvalvular stenosis  | 주로 개에서                                                                                           |
+| Supravavular stenosis | 가끔 고양이에서                                                                                         |
+| 💊 약물                 | 강심제 사용 X<br>- Calcium channel blocker<br>- β-blocker                                             |
+
+
+| PS                |                                                                                                                                                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pulmonic stenosis | mPA의 bulging<br>우심실의 concentric hypertrophy<br>pressure overload<br>**ejection murmur** = crescendo-decrescendo murmur = diamond murmur<br>심전도의 deep S 파 |
+| 💊 약물             | AS와 동일                                                                                                                                                   |
+# 15주차
+
+
+| 약물         |                                                                             |
+| ---------- | --------------------------------------------------------------------------- |
+| 항혈소판제      | **aspirin, clopidogrel**<br>: 혈소판이 굳는 것을 일차적으로 차단해줌<br>- 좌심방 확장 또는 심장 질환 환자 |
+| 항응고제       | **heparin, rivaroxaban** [Xarelto]<br>                                      |
+| β-blockers | **atenolol** (β1 차단제)<br>**propranolol** (β1,2 차단제)<br>diltiazem (CCB-)     |
+
+## LVOTO
+Left Ventricular outflow obstruction
+
+| LVOTO | Left Ventricular outflow obstruction                                                                                                                                                |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 기전    | 격벽 쪽 좌심실 근육이 자라, outflow track 좁아짐.<br>→ 대동맥으로 나가는 혈액이 방해받음 → 압력차 발생 (속도 증가)<br>→ 혈류 속도가 너무 빨라 이첨판의 anterior valve가 나가는 혈류에 빨려들어감. (SAM, systolic anterior motion)<br>→ 혈류 흐름 더 막힘. |
+|       | 이렇게 심근이 두꺼워지거나 대동맥 쪽 압력이 증가하면 ⇒ SAM 발생.<br>당뇨, 만성 심부전, 고혈압 등에 의해 가능.                                                                                                                |
+| 💊 약물 | Anteriolar dilator (동맥 확장제)<br>CCB (이완기 기능 개선)                                                                                                                                      |
 
 %%
 # 질병
@@ -301,11 +339,7 @@ Pressure overload, concentric hypertrophy
 - Mitral valve regurgitation : 판막 이상으로 좌심실 수축했을 때 피가 대동맥으로 나가지 않고 좌심실 → 좌심방으로 이동
 - **Regurgitant murmur** (역류성 심잡음) : 청진 시 좌심방으로 역류하는 소리.
 
->[!tldr] 혈압이 낮아지면..
->- [Short term] 심장 수축력 증가, HR 증가(tachycardia) → 85% 정도까지만 가능
->- [Long term] RAAS 활성화 → 삼투압 증가 → 혈관 내로 물이 들어가서 volume expansion
->	- Angiotensin Ⅱ가 aldosterone과 ADH를 활성화 : 물과 나트륨 재흡수
->- 오히려 너무 물이 많아져서 부종, 폐출혈, 폐수종 발생
+
 
 ### Chordae tendineae rupture
 
