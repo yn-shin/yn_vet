@@ -133,7 +133,7 @@ B.bronchiseptica | \-                                    | 돼지의 3대 호흡
 - 임신한 상태에서 감염된 말에서 태어난 새끼는 태어나면서부터 감염됨 | - 암말에서 자궁내막염, 농양 삼출물 배출, 일시적 불임 | \- | \-     |
 
 
-# Table_31. Bordetella bronchiseptica | [[31. Bordetella bronchiseptica|LINK]]
+# Table_31. Bordetella bronchiseptica | [[전염1(B) - 31. Bordetella bronchiseptica|LINK]]
 
 | 질병                                                                                                                                                                                    | 원인균                                    | 특성 | 개요                     | 발생                                                                                           | 증상                           | 병리 | 진단치료예방 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -- | ---------------------- | -------------------------------------------------------------------------------------------- | ---------------------------- | -- | ------ |
@@ -210,9 +210,6 @@ aerosol을 통해 직접 전파
 감염 2-3주 후 증상 발생 | 고열, 식욕 부진, depression, 젖소의 우유 생산량 감소
 심한 호흡 곤란 → 억지로 호흡하기 위해 목을 쭉 빼는 증상
 전형적인 흉막 폐렴 | 폐 절단 시 마블링 모양의 단면 관찰, 흉막에 fibrin이 침착                                                            | \-                                                    |
-| [[vet/1. Lecture/06-3. 전염병학1/기말고사/38-02. Mycoplasmal Pneumonia in Cattle.md\|38-02. Mycoplasmal Pneumonia in Cattle]]                 | Mycoplasma bovis, M. dispar, M. bovigenitalium, U. diversum | \-                                 | 송아지에 다발하는 만성 폐렴, 일반적으로 무증상 or 경증    | shipping fever의 원인체 중 하나
-1-6개월령의 송아지에서는                               | 혼합 감염 시 발열, 수양성 콧물, 기침 등
- 더 진행되면 발열, 원기 소실, 식욕부진, 농양이 포함된 콧물                      | 폐와 간에서 농양이 형성됨                                                                                  | \-                                                    |
 | [[vet/1. Lecture/06-3. 전염병학1/기말고사/38-03. Mycoplasmal Pneumonia in Swine.md\|38-03. Mycoplasmal Pneumonia in Swine]]                   | Mycoplasma hyopneumonia                                     | capsule을 보유, cilia를 파괴하여 호흡기 질환 유발 | 돼지 3대 호흡기 질병 중 하나, 만성 폐렴, 전염성 매우 강함 | 대부분의 돼지가 항체를 보유                                                       | 무증상 상태로 만성 경과하는 경우 많음
 기침, 발열, 식욕 부진 등
 심각한 사료 효율 저하                                | 폐 말단부에 좌우 대칭성의 회백색, 대황색, 진한 붉은색의 투명감 있는 병변이 형성됨
@@ -220,5 +217,8 @@ aerosol을 통해 직접 전파
 초기 병변 시 다량의 투명한 장액 | 예방 : 백신 접종, 철저한 위생 관리
 Doxycycline, Tiamulin 등의 항생제 사용 |
 | [[vet/1. Lecture/06-3. 전염병학1/기말고사/38-4. Mycoplasmal Arthritis in Swine.md\|38-4. Mycoplasmal Arthritis in Swine]]                     | M. hyosynoviae, M. hyorhinis                                | \-                                 | 돼지에서 관절염 유발                         | \-                                                                    | \-                                                                                | \-                                                                                              | \-                                                    |
+| [[vet/1. Lecture/06-3. 전염병학1/기말고사/38-02. Mycoplasmal Pneumonia in Cattle.md\|38-02. Mycoplasmal Pneumonia in Cattle]]                 | Mycoplasma bovis, M. dispar, M. bovigenitalium, U. diversum | \-                                 | 송아지에 다발하는 만성 폐렴, 일반적으로 무증상 or 경증    | shipping fever의 원인체 중 하나
+1-6개월령의 송아지에서는                               | 혼합 감염 시 발열, 수양성 콧물, 기침 등
+ 더 진행되면 발열, 원기 소실, 식욕부진, 농양이 포함된 콧물                      | 폐와 간에서 농양이 형성됨                                                                                  | \-                                                    |
 
 
