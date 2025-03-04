@@ -5,7 +5,7 @@ aliases:
 ---
 Erythropoietin = EPO = Erythropoiesis를 자극하는 호르몬.
 
->[!check] [[4. Erythrocyte (Ch.3)|임상병리학-Erythrocyte]] 
+>[!check] [[임병1(B) - 4. Erythrocyte (Ch.3)|임상병리학-Erythrocyte]] 
 >##### EPO(erythropoietin)
 > Erythropoiesis를 자극하는 호르몬.<br> 태아기에는 간에서, 성체에서는 신장의 renal peritubular interstitial cell에서 주로 생산된다.
 > - **Renal hypoxia**에 대한 반응으로 EPO가 생산되면 → EPO가 **erythropoiesis**를 유도.
